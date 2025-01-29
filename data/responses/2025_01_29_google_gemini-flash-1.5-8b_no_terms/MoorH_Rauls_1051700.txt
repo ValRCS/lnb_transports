@@ -1,0 +1,12 @@
+1. auto
+2. vilciens
+3. motorlaivas
+4. automobīļi
+5. kamanas
+6. pajūgi
+7. rati
+8. ormaņa rati
+9. tramvaja vagoni
+10. taksometrs
+11. motorjacht
+12. laivas

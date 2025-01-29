@@ -1,0 +1,5 @@
+1. Tramvaji
+2. Automobīlī
+3. Taksītī
+4. Limuzīns
+5. Auto

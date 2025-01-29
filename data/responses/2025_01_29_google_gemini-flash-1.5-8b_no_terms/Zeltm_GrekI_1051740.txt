@@ -1,0 +1,6 @@
+* vilciens
+* tvaikonis
+* važonis
+* automobīlis
+* laivu
+* tramvajs

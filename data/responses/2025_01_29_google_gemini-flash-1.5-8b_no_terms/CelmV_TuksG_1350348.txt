@@ -1,0 +1,20 @@
+* vilciens
+* avions
+* šleja
+* gumi
+* bitons
+* blende
+* taksometrs
+* automobiļi
+* traktori
+* auto
+* limuzīns
+* ielu autobuss
+* trolejbuss
+* bruņotais auto
+* preču auto
+* motorizētais auto
+* automašīna
+* vilciena
+* kamiels
+* mūlis

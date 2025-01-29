@@ -1,0 +1,39 @@
+1. masilīči
+2. laivas
+3. tīkli
+4. tornis
+5. velkonis
+6. čoliņa
+7. motorlaiva
+8. autobusi
+9. tramvaji
+10. taksometri
+11. limuzini
+12. auto
+13. ugunsdzēsēju auto
+14. vāģis
+15. vilciens
+16. motoršļirce
+17. motorjachta
+18. jachta
+19. motors
+20. motocikls
+21. riksa
+22. auto
+23. automobil
+24. hidroplana
+25. laiva
+26. airus
+27. kuteris
+28. motorlaiva
+29.  rāmais jūrpā velkonis
+30.  motorbūrniekā
+31. pajūgi
+32. mašīna
+33. vilciens
+34.  autobuss
+35. goplāne
+36. brauniņš
+37.  pārīšļi
+
+

@@ -1,0 +1,6 @@
+* auto
+* tramvajs
+* velosipēds
+* kuģis
+* auto
+* limuzini

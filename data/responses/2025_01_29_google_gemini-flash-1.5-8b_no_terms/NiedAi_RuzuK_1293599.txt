@@ -1,0 +1,18 @@
+* vezumi
+* rija
+* piedarbu
+* rati
+* zirgi
+* bišu siets
+* kamanas
+* pajūgs
+* tramvaji
+* automobiļi
+* vilciens
+* velosipēds
+* pļāvēju transportlīdzekļi
+* mašīna
+* traktors
+* ratiņi
+* kuļmaqšīna
+* autobuss

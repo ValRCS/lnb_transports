@@ -1,0 +1,13 @@
+1. plostnieks
+2. plosts
+3. dzelzceļa ierēdnis
+4. zirgi
+5. rati
+6. laiva
+7. tramvajs
+8. velosipēds
+9. automašīna
+10. motorlaiva
+11. limuzīns
+12. vilciens
+13. kuģis

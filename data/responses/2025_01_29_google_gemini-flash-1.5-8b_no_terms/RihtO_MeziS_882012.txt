@@ -1,0 +1,14 @@
+1. zirgi
+2. auto
+3. automobiļa
+4. ragavas
+5. velosipēdi
+6. pajūgi
+7. rati
+8. kumeļi
+9. plosti
+10. automašīna
+11. tramvajs
+12. vilciens
+13. lokomobile
+14. ķēve

@@ -1,0 +1,8 @@
+1.  **zirgs**
+2.  **dzelzceļš**
+3.  **vilciens**
+4.  **lokomotīve**
+5.  **automašīna**
+6.  **mašīna** (repeated many times, context indicates vehicles)
+7.  **vilciens**
+8.  **tramvajs**

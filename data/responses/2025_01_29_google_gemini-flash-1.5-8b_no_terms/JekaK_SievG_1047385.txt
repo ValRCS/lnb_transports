@@ -1,0 +1,11 @@
+1. Mašinas
+2. Skrituļi
+3. Zāģi
+4. Baržas
+5. Kuģi
+6. Plosts
+7. Rati
+8. Važonis
+9. Tramvaji
+10. Zirgi
+11. Karietes

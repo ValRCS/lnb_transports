@@ -1,0 +1,5 @@
+* velosipēdi
+* motorlaiva
+* laivas
+* vilciens
+* auto

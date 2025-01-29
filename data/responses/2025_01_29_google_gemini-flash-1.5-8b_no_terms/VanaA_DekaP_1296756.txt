@@ -1,0 +1,9 @@
+1. autobuss (preču auto)
+2. kamieļi
+3. zirgi
+4. laiva
+5. auto
+6. džunka
+7. tanki
+8. lidmašīnas
+9. plosts

@@ -1,0 +1,8 @@
+* rati
+* auto
+* tramvajs
+* vilciens
+* taksi
+* vāģis
+* kuģis
+* laiviņa

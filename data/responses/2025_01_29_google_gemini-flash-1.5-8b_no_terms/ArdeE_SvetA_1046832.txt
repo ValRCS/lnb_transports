@@ -1,0 +1,15 @@
+* dzelzceļa piestātne
+* lielceļš
+* velosipeds
+* cūka
+* veprens
+* trauku
+* automobīlis
+* zirgi
+* vezums
+* mašīnas ratu
+* kārti
+* ragaviņas
+* mieta
+* pļaujama mašina
+* auto

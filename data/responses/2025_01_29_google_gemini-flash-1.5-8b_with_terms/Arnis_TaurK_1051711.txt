@@ -1,0 +1,12 @@
+```
+zirgs
+dzelzceļš
+ormanis
+pajūgs
+kamanas
+velosipēds
+automašīna
+mašīna
+vilciens
+lokomotīve
+```

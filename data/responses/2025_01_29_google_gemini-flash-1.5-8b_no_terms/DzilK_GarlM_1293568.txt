@@ -1,0 +1,33 @@
+1. zirgi
+2. teciņi
+3. rati
+4. vezumi
+5. kariete
+6. redeļu rati
+7. kamanas
+8. pajūgs
+9. kuģis
+10. karietē
+11. laiva
+12. pasta rati
+13. rati
+14. kamanas
+15. zirgi
+16. pajūgs
+17. karietē
+18. gliemezis
+19. kuģi
+20. kuģis
+21. kuģu
+22. rati
+23. karietes
+24. zirgi
+25. kamanas
+26. rati
+27. pajūgs
+28. kariete
+29. kuģis
+30. vējdzirnavas
+31. rati
+32. karietes
+33. važoni

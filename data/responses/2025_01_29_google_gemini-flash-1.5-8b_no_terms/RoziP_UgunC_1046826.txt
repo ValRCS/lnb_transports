@@ -1,0 +1,8 @@
+* Važoņi
+* auto
+* dzelzsceļš
+* tramvajs
+* kamanas
+* zirgs
+* motors
+* mašīna

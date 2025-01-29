@@ -1,0 +1,15 @@
+* mašīna
+* lifta
+* radio
+* lidmašina
+* lifta šahta
+* auto
+* taksometrs
+* vilciena
+* autobusa
+* tramvajs
+* mašina
+* lidmašina
+* traktors
+* mašīna
+* auto

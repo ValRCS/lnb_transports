@@ -1,0 +1,5 @@
+1. kuģis
+2. automobilis
+3. motociklets
+4. rati
+5. vilciens

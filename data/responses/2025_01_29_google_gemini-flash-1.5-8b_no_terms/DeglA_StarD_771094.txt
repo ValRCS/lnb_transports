@@ -1,0 +1,13 @@
+```
+auto,
+cūku rati,
+fūrmanis,
+droška,
+zirgi,
+rati,
+ratiņi,
+zirgu vagonzī,
+lopu rati, 
+cūku gans,
+kaŗa kuģi
+```

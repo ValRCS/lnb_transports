@@ -1,0 +1,14 @@
+1. ātrvilciens
+2. vagoni
+3. kupejas
+4. koferis
+5. mētelis
+6. platmale
+7. auto
+8. tramvaji
+9. limuzīni
+10. transportkuģi
+11. velkonis
+12. motorlaiva
+13. lidmašīna
+14. autobusi

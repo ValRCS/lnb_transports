@@ -1,0 +1,8 @@
+1. auto
+2. tramvajs
+3. vilciens
+4. važoni
+5. automobili
+6. velosipēds
+7. zirgi
+8. rati

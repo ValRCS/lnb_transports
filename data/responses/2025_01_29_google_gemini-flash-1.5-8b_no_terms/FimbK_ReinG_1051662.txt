@@ -1,0 +1,18 @@
+* Lokomotīve
+* Vagonu
+* Riteņi
+* Lielceļš
+* Rati
+* Zirgs
+* Ecēšas
+* Sējmašīna
+* Baģažas vilciens
+* Velosipēds
+* Divritenis
+* Pajūgs
+* Kurvjrati
+* Kamanas
+* Mašīnas
+* Automobilis
+* Vilciens
+* Traktors

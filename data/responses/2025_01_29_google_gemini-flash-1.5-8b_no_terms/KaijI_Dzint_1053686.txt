@@ -1,0 +1,71 @@
+1. ratiņi
+2. zirgi
+3. kuģi
+4. laiwas
+5. sirgi
+6. rati
+7. laivas
+8. karalaiwas
+9. kuģis
+10. flote
+11. jahj
+12. zepures
+13. ratos
+14. kaŗa laiwas
+15. laiwiņas
+16. kumeļi
+17. flotes
+18. kuģi
+19. airinieties
+20. laiwas
+21. karogas
+22. karapulki
+23. sirgi
+24. lieli rati
+25. kupes
+26. zirteeni
+27. dunzis
+28. rihki
+29. kaŗa rihki
+30. bultas
+31. lingas
+32. wahles
+33. lingas
+34. zaurumi
+35. kaujas sirgi
+36. kaujas zirgi
+37. kaŗa zirgi
+38. bultas
+39. kaulaku
+40. sirgi
+41. rihklē
+42. karapulks
+43. kuģi
+44. laivas
+45. flote
+46. ratos
+47. lauvas
+48. sirgi
+49. rateem
+50. sirgi
+51. kaŗaflotes
+52. kapara katli
+53. rati
+54. zirgi
+55. laiwas
+56. karavieni
+57. rāņi
+58. ratu
+59. kuģi
+60. airīgu kuģu
+61. kuģi
+62. laiwas
+63. laiwa
+64. sirgi
+65. kuģi
+66. zirgi
+67. vahli
+68. karapulki
+69. jahj (vārds jāskatās kontekstā)
+70. flotes
+71. sirgi (vārds jāskatās kontekstā)

@@ -1,0 +1,28 @@
+1.  **zirgs** - No keywords given, there is no mention of a literal "horse" (zirgs) in the provided text. However, the word "zirgs" (horse) is present in the text fragment. The context suggests the author is referring to land transportation using animals (as well as other vehicles).
+
+2.  **dzelzceļš** - No keywords given, there is no mention of a literal "railroad" (dzelzceļš).
+
+3.  **ormanis** - No keywords given, there is no mention of a literal "cart" (ormanis).
+
+4.  **pajūgs** - No keywords given, there is no mention of a literal "harness" (pajūgs).
+
+5.  **kariete** - No keywords given, there is no mention of a literal "carriage" (kariete).
+
+6.  **kamanas** - No keywords given, there is no mention of a literal "sleigh" (kamanas).
+
+7.  **velosipēds** - No keywords given, there is no mention of a literal "bicycle" (velosipēds).
+
+8.  **automašīna** - No keywords given, there is no mention of a literal "car" (automašīna) in the provided text. However, the word "mâẜina" (car) appears in the text.  The context can infer this is a keyword.
+
+9.  **mašīna** - The word "mašīna" (machine/car) appears multiple times in the context of automobiles and other mechanisms, clearly suggesting land transportation.
+
+10. **vilciens** - No keywords given, there is no mention of a literal "train" (vilciens).
+
+11. **lokomotīve** - No keywords given, there is no mention of a literal "locomotive" (lokomotīve).
+
+12. **tramvajs** - No keywords given, there is no mention of a literal "tram" (tramvajs).
+
+13. **bānītis** - No keywords given, there is no mention of a literal "small train" (bānītis).
+
+
+**Important Note:**  The text is heavily OCR-corrected, and some words are unclear/corrupted. The keyword identification is based on the *best* possible match, and further analysis using context will need a larger context or possibly the original document.

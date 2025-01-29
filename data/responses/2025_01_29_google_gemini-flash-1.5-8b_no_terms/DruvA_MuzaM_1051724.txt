@@ -1,0 +1,13 @@
+1. kuģis
+2. tvaikonis
+3. laiva
+4. motor.kuģis
+5. lidmašīna
+6. cepelīni
+7. vilciens
+8. automašīna
+9. velosipēds
+10.  laivām
+11. šchūnu
+12. auto
+13. hidroplāns

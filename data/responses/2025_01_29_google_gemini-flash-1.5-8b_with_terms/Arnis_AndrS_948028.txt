@@ -1,0 +1,9 @@
+```
+1. zirgs
+2. dzelzceļš
+3. ormanis
+4. velosipēds
+5. automašīna
+6. mašīna
+7. vilciens
+```

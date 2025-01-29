@@ -1,0 +1,9 @@
+lv:
+* zirgs
+* rati
+* velosipēdi
+* pajūgs
+* vilciens
+* tramvajs
+* auto
+* ormanis

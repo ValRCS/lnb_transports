@@ -1,0 +1,11 @@
+* rati
+* auto
+* tramvajs
+* vilciens
+* autobuss
+* lokomotīvju
+* ragaviņas
+* velosipēds
+* motocikls
+* automašīna
+* taksometrs

@@ -1,0 +1,10 @@
+1. auto
+2. tramvaji
+3. automobīli
+4. kamanas
+5. auto
+6. automobīli
+7. ormaņi
+8. kamanas
+9. auto
+10. auto

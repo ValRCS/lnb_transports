@@ -1,0 +1,10 @@
+* autobuss
+* laiva
+* prauls
+* ragavas
+* velosipēds
+* motorlaiba
+* kuģis
+* tvaikonis
+* mašīna
+* reklāmsists

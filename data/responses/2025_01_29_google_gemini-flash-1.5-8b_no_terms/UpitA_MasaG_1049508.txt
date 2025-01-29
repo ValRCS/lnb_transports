@@ -1,0 +1,9 @@
+1. velosipēds
+2. tvaikonis
+3. tramvajs
+4. autobuss
+5. limuzins
+6. velosipēds
+7. automašīna
+8. taksometrs
+9. vilciens

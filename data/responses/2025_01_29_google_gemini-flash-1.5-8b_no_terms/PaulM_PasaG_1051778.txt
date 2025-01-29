@@ -1,0 +1,58 @@
+* tvaikoņi
+* vilcieni
+* auto
+* autobusus
+* elektriskos dzelzceļus
+* pajūgi
+* auto
+* ēzelis
+* kalešas
+* divritņi
+* velosipēdi
+* divjūgs
+* rati
+* lifti
+* vagonetes
+* vagonos
+* lidmašīnas
+* tvaikoņi
+* šoneri
+* barkas
+* brīgas
+* kuģi
+* pajūgi
+* auto
+* traktori
+* motociklu
+* lidmašīnas
+* elektriskie ātrbraucēji
+* autobusi
+* vilcieni
+* tvaikoņi
+* mašīnas
+* lidmašīnas
+* lidmašīnās
+* trīsmotoru lidmašīnas
+* Apakšzemes dzelzceļa
+* metro
+* vilcieni
+* elektrisko gaisa dzelzceļa
+* elektrokari
+* elektrokaru
+* elektro dzinēju
+* elektromotors
+* ragavas
+* zirgi
+* lidmašīnas
+* lidaparāti
+* lidmašīna
+* stratosfairas lidaparāti
+* Zemūdenē
+* kreiseris
+* lidmašīnas
+* stratosfairas lidmašīna
+* lidmašīna
+8
+* lidmašīnas
+* ragavas
+* elektrokarā

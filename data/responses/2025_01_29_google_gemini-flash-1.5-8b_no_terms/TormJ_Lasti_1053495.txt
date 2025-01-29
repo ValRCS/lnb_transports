@@ -1,0 +1,12 @@
+* auto
+* taksometrs
+* tramvajs
+* zirgs
+* rati
+* laiva
+* vilciens
+* motociklets
+* autobuss
+* divritene
+* konvojs
+* automobilis

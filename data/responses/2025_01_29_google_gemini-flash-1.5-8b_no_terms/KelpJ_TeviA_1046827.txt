@@ -1,0 +1,7 @@
+1. pajūgs
+2. rati
+3. bēris
+4. zirgi
+5. vilciens
+6. tramvajs
+7. auto

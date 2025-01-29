@@ -1,0 +1,33 @@
+1. araja
+2. ceļadrēbēs
+3. kamanās
+4. kuģis
+5. laiva
+6. line
+7. labi
+8. nestavas
+9. rati
+10. vāģi
+11. zirgi
+12. zirgu
+13. kamanas
+14. dzelzsceļa ātrais vilciens
+15. vilciens
+16. kuģi
+17.  vāģiši
+18.  fūrmanis
+19. fūrmaņi
+20. kamanas
+21.plosti
+22. kamanas
+23. ratos
+24.  veikals
+25.  bodi
+26.  kamanās
+27.  vāģi
+28.  pūri
+29.  šķēršelis
+30.  sēts
+31.  vāģī
+32.  vāgonā
+

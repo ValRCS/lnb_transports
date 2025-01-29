@@ -1,0 +1,19 @@
+1.  automobilis
+2.  kamanas
+3.  dzīvnieku pajīgs
+4.  linijdroška
+5.  zirgs
+6.  rati
+7.  slidotava
+8.  skola
+9.  auto
+10.  kickaziņas
+11.  ripa
+12.  vijole
+13.  ērģeles
+14.  klavieres
+15.  pianino
+16.  tāfelklavieres
+17.  flīģelis
+18.  revolvers
+19.  pēdiņas

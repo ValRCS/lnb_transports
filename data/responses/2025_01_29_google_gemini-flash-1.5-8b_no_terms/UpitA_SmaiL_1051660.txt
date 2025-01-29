@@ -1,0 +1,13 @@
+* Armijas
+* kājgals
+* rati
+* vezums
+* zirgs
+* laiva
+* vilciens
+* automobilis
+* tramvajs
+* ormanis
+* kuģis
+* ratiņi
+* velosipēds

@@ -1,0 +1,15 @@
+* rati
+* autobusi
+* tramvaji
+* velosipēdi
+* zirgu rati
+* laivas
+* ostas velkonīši
+* pasažieru kuģītis
+* tralleris
+* jachtas
+* tvaikonis
+* vilciens
+* lidmašīna
+* aeroplans
+* dzelzceļa vagoni

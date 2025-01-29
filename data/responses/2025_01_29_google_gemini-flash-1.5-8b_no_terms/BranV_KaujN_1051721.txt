@@ -1,0 +1,5 @@
+* vilciens
+* vagoni
+* platformas
+* riteņu
+* auto

@@ -1,0 +1,18 @@
+1. ceļš
+2. vezumi
+3. logi
+4. dzelzceļa vilciens
+5. lokomotīve
+6. vagoni
+7. rati
+8. zirgi
+9. stiba
+10. kurvītis
+11. ratiņi
+12. pajūgs
+13. kamanas
+14. ragavas
+15. zirgs
+16. vilciens
+17. ratiņi
+18. rati

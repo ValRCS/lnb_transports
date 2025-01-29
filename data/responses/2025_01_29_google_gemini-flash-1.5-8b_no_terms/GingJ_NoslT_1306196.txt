@@ -1,0 +1,4 @@
+* automobiļi
+* taksometris
+* elektriskie lifti
+* auto

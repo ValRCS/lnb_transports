@@ -1,0 +1,6 @@
+* zirgu
+* autosatiksme
+* autobusam
+* kamanās
+* laiva
+* motorlaiva

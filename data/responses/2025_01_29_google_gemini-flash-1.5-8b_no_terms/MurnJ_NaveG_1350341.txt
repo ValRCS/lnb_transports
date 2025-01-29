@@ -1,0 +1,11 @@
+* automobiļi
+* kamanas
+* lokomotīve
+* tramvajs
+* wilzeens
+* rati
+* zeļa
+* zepures
+* mašīnas
+* motori
+* auto

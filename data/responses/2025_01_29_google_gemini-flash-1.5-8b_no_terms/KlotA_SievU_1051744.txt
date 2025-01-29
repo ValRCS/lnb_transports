@@ -1,0 +1,7 @@
+1. Aeroplans
+2. Auto
+3. Automobīlis
+4. Vezums
+5. Vilciens
+6. Kamanas
+7. Motociklets

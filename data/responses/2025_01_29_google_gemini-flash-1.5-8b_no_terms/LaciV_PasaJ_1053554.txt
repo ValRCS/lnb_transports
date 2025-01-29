@@ -1,0 +1,752 @@
+* kuģa
+* kojas
+* trauki
+* koka galds
+* koka soli
+* durvis
+* gaitenis
+* skapis
+* iluminatori
+* petrolejas lampa
+* čuguna krāsniņa
+* mechaniķis
+* stuarts
+* matraci
+* dvieļi
+* kurinātāju
+* sviedru drānas
+* zeķes
+* krekli
+* spogulīši
+* tabakas bundžas
+* vēstuļpapīri
+* veļa
+* šķērssienu
+* sprosti
+* matrači
+* drēbes
+* uzvalki
+* mēteļi
+* cepures
+* uz kuģa
+* vinčas
+* krāsnī
+* pelnu pice
+* katla siena
+* bunkurs
+* āķi
+* pelnu pi(lae
+* krūzes
+* lūpatas
+* kabatdrānas
+* kartupelis*
+* koka tupeles
+* skrūvsolu
+* cirķeli
+* bļodu
+* krāsnīm
+* skārda traukā
+* gaismas
+* nagas
+* zābakus
+* kafijas kannu
+* ķēķi
+* vinču
+* maizes drumstalas
+* sviestmaize
+* lāpstu
+* kruķi
+* lauzni
+* krāsnām
+* krāsns
+* restēm
+* krūzēm
+* ēdiena bļodā
+* skārda bundžu
+* pucvilnas kunkuļus
+* gružus
+* asbesta
+* atgriezumus
+* samazgām
+* ēdiena atliekas
+* skārda pici
+* maizītes
+* kotleti
+* kartupeļus
+* pelnu kastes
+* sardze
+* maiņu
+* vinču
+* vākā
+* šņākdami
+* bļodu
+* kuģa puiku
+* šlaga
+* tvaikoņi
+* bārdas nazi
+* bļoda
+* kočiņu
+* svītraino virskreklu
+* svītraino virskreklu
+* zakusku
+* zilcdesu
+* Rīgu
+* dūšīgi
+* bļodas
+* kuciņš
+* dzeramo ūdeni
+* krāšņu
+* klāja
+* mašīntelpā
+* vakariņām
+* trauki
+* maizes tiesu
+* pīķa
+* galda garnituru
+* koka galds
+* maizes drumstalas
+* koka solu
+* trauku
+* katli
+* dēļu kastēs
+* tvaikā
+* tvaika kannu
+* katlā
+* kaliju
+* šlagu
+* pelnus
+* jūrā
+* kafijas kannas
+* petrolejas lampas
+* šlagas
+* deķi
+* šlageru
+* sardznieki
+* jūras vaktis
+* krāsnīm
+* krāsns
+* vakariņas
+* matrožu kajitē
+* mandolinu
+* klājs
+* lāpstu
+* skailertus
+* petrolejas lampiņu
+* piķa lampiņu
+* dvieli
+* dzeramo ūdens
+* katlā
+* dēļu kastēm
+* tvaikoņi
+* selgas
+* kaiju bari
+* viļņos
+* dažiem
+* kaiju
+* kaidu bari
+* kondensatora
+* kalijus
+* plīvuriem
+* kuģa klāju
+* salnu
+* krasta
+* ceļa jostu
+* kaliju
+* kalijas
+* pelnus
+* pelnu
+* krāsns
+* lāpstu
+* krūmi
+* gaisu
+* krava
+* kravas
+* krājumu
+* bāka
+* bākas
+* bāku
+* vārtu
+* dzenādamies
+* pūļus
+* kravu
+* bākas
+* bāka
+* laternas
+* kuģa
+* pilsētas
+* kontūras
+* kuģa
+* šaurum
+* dūmu
+* smagiem vilņiem
+* bangas
+* kuģim
+* reidus
+* tvaikoņu
+* jachta
+* kuģa korpusu
+* kuģa sāniem
+* pīkāmuru
+* skursteni
+* šļūteni
+* dzelžceļa sliedes
+* sētas
+* stūrmaņi
+* pīķa
+* klājos
+* skailertus
+* galdnieku
+* dzelzs lauzni
+* durvīm
+* grīdu
+* lauzni
+* dzelzs
+* piķa
+* krāsns
+* ložmetējus
+* krāsnis
+* lāpstu
+* lāpstu
+* kruķi
+* kaļjite
+* sardzēm
+* sardzes
+* krāsnis
+* lāpstu
+* pici
+* ogles
+* rīklēs
+* kruķi
+* krāšņu
+* krūšām
+* krūtīm
+* ārā
+* slapju
+* ūdenī
+* kuģi
+* krēpainas vērpetes
+* debesskrāpjus
+* kuģi
+* lokus
+* tiltiņiem
+* klājam
+* lūkas
+* vinčas
+* pametušiem
+* lāpš
+* lauzņiem
+* krāsnīm
+* spārni
+* liesmas
+* pelnu
+* krāšņu
+* krāsnis
+* lāpšs
+* ogļu
+* krāsns
+* ložmetēju
+* čīf
+* krāšņu
+* lūkautā
+* lāpstu
+* lāpstu
+* kruķi
+* un
+* liesmas
+* skurstenī
+* skurstenī
+* atpakaļ
+* adatas
+* monometrs
+* mārciņas
+* krūšām
+* krūtīm
+* sviedros
+* skurstenī
+* krūšām
+* kāpņu
+* saķerām
+* dzelzs
+* mašīna
+* krāsns
+* krūšām
+* krāsnis
+* pirkstas
+* pīķa
+* krāsnis
+* lāpstu
+* ogles
+* kruķus
+* lauznis
+* lauzni
+* skursteni
+* spārniem
+* monometrs
+* mārciņas
+* krūti
+* gaismas
+* skurstenis
+* skursteni
+* lūkas
+* pīķa
+* krūšām
+* krūtīm
+* sviedros
+* sienām
+* strādnieki
+* bāku
+* jūras
+* līdzenumiem
+* bākas
+* kuģiem
+* bangas
+* kuģa sāniem
+* krastmala
+* dūmu
+* varenām
+* dūmu
+* bāku
+* sīkumi
+* kuģi
+* krāšņām
+* kuģim
+* jūrmalās
+* kuņģī
+* kuģiem
+* sienām
+* skurstenēm
+* viļņos
+* kuģiem
+* signālugunis
+* bāku
+* kuģu
+* dzelmē
+* čiem
+* kuģa korpuss
+* jūru
+* lietus
+* klājam
+* dēļiem
+* kuģim
+* dēļu
+* glābšanas riņķi
+* lāpstu
+* smagiem vilņiem
+* pūta
+* kuģi
+* kuģa klājam
+* klāts rītiņām
+* lūkautā
+* bļodas
+* glābšanas laivām
+* elektriskām
+* plātas
+* laivas
+* dzelmi
+* klājam
+* kāpnēm
+* gaismas plūdi
+* šļakatām
+* jūrā
+* skatu
+* spīdošām
+* virvju
+* laivas
+* dēlī
+* skailertām
+* maiju
+* spīdēja
+* rīvējām
+* matrožu
+* koka tupeles
+* gaisa
+* signālugunīm
+* šļakatām
+* dēļiem
+* spīdēja
+* durvīm
+* gaisa
+* plaukstām
+* kājām
+* durvīm
+* rēta
+* lūkautā
+* spīdēja
+* krāšņu
+* gaisā
+* skurstenim
+* pakaļ
+* kuģiem
+* dzeramā ūdeni
+* durvīm
+* krāšņu
+* lūkautā
+* cilvēki
+* grīdā
+* uzmetās reliņam
+* dzeramāūdeni
+* krāsns
+* locekļiem
+* pūlēs
+* krāšņu
+* augšā
+* gāzās
+* nogāzās
+* uz priekšu
+* pakaļ
+* kājām
+* kājām.
+* stūres
+* rītiņiem
+* krāsns
+* lauzni
+* lāpš
+* krāšņu
+* krāsns
+* lāpstu
+* pelnus
+* lāpš
+* krāsns
+* lāpstu
+* stūrmanis
+* lāpstu
+* grābstījās
+* krāšņu
+* lauzni
+* lāpstu
+* izgāzās
+* atkal
+* krāšņa
+* izdedzināja
+* skursteni
+* acīm
+* krāsšņu
+* krūšu
+* kuga
+* lūkautā
+* rokas
+* lauzni
+* gaisā
+* lāpstu
+* grāba
+* laužot
+* lūkautā
+* sarkanās
+* ugunīs
+* iesaucās
+* krāšņās
+* krūšām
+* lūkautā
+* ogļu
+* lāpstas
+* lauzni
+* pelnus
+* skurstenim
+* klāja
+* rāpo
+* krāsns
+* svelmā
+* kurinamā
+* sardzes
+* ugunīs
+* izkrāksi
+* adatai
+* krāsns
+* krāsns*
+* lauzņiem
+* vinču
+* mašīnas
+* tvaiku
+* krāšņu
+* Zummeru
+* un.
+* grābstija
+* lāpstām
+* lāpstu
+* pārējie
+* skurstenis
+* uguni
+* aicinājumu
+* tur
+* lūkautā
+* klusumu
+* vairs nebija kārtībā
+* kuģa
+* gaidām
+* krāšņu*
+* pie
+* krāsns
+* krēpainas,
+* kuģa,
+* sardzes,
+* krāšņu
+* krūšām,
+* skailertus,
+* krāsnis
+* atkal
+* krāšņu*
+* kuģa,
+* sardzes,
+* krāsnis,
+* rītiņiem,
+* lāpstu.
+
+
+* lāpstu
+
+
+* skurstenis
+* vairs vairs nebija
+* lāpstu
+* lāpstu
+* krāšņu
+* krāšņu
+* krāšņu
+* krāsnis
+* tvaiku
+* krāsnīm,
+* atpakaļ
+* izkrāksi
+* krūtīs
+* krustu
+* krāšņu
+* lāpstu
+* krāsns
+* vairs
+* lūkautā
+* lāpstu
+* krūšām
+* lāpstu
+* liesmas
+* krāsns
+* krāsnis
+* adatas
+* monometrs
+* stūrmaņi
+* krūšām
+* virvē
+* lāpstu
+* krāsns
+* vairs nebija kārtībā
+* krāšņu
+* atpakaļ
+* lūkautā
+* izkrāksi
+* krāsnis
+* dūšīgi,
+* skurstenis
+* signalizēja
+* lūkautā
+* kuģa
+* matrožiem
+* sardzē
+* skailertus
+* kuģu
+* viltas
+* dzināja
+* guļam
+* sardzīe
+* trīs
+* dzeramā ūdeni
+
+
+* lūkautā
+* kāpnīiēmē
+* laivas
+* lūka
+* lūkautā
+* brezenta malas
+* ķīļus
+* pakaļ
+* kuģa,
+* klāja
+* sāniem
+* klāja,
+* tvaikoņi
+* kuģiem
+* gaisā
+* kuģiem
+* kuģu
+* signālugunis
+* klintīm
+* signalizēja
+* kuģa
+* debesīm
+* kūt
+* kuģa
+* līdzenumus
+* stūrmaņis
+* matrožu
+* klāju
+* skailertus
+* krāsnes
+* kuģis
+* valstoties
+* lūkautā
+* kāpnīiēmē
+* krāšņu*
+* klāja,
+* dēšus
+* skailertus,
+* krāšnes,
+* lāpstu,
+* lūkautā.
+* kuģiem
+* lāpstām
+* krūtīm
+* skailertus
+* lūkautā
+* krāšņu
+* lūkautā
+* saķēra
+* laivām,
+* dēļiem,
+
+
+* lūkautā
+* kāpnīiēmē
+* krāšņu*
+* klāja
+* lāpstu
+* skailertus
+* krāsnes,
+* pārējie,
+
+
+* lāpstu
+* krūti,
+* skurstenis
+* lāpstu,
+* krāšņu
+* krāšņu
+* krāšņu
+* lāpstu,
+* skurstenis,
+* pārējie.
+* krāsnis
+* vētra
+* lūkautā
+* kuģiem
+* no
+* signalizēja
+
+* signalizēja,
+* kuģu
+* klājam
+* skailertus
+* krāsnes
+* tvaiku
+* krāšņu*
+* kuģa,
+* sardzes,
+* krāsns,
+* skailertus.
+
+
+* bāku
+
+
+* kuģa
+* kuģiem*
+* uz priekšu
+* krāšņu
+* krāsnis
+* peldu vesti
+* bārdām
+* lāpstu
+* krāsnes
+* lāpstu,
+
+
+* lūkautā
+* krāsnes
+* lāpstu
+* krūšīm
+* krāšņu*
+* krūšīm,
+* krāšņu
+* krāsnes
+* lāpstu,
+
+* lāpstu,
+* krāšņu
+* virve
+* virvju
+* bīmi
+* skrūvēlti
+* durvis
+* durvis
+* čīkstēdami
+* kuģa
+* šļūcot
+* svelmē
+* krāsnis,
+
+* skurstenis,
+* koku
+* krāsnes.
+* krāsns
+* krāsu
+* krāšņu
+* krāsnis
+* krāsu
+* skurstenis
+* gaisa
+* krāsns,
+* krāšņu
+* krāsnis
+* krāsu
+* iluminatorus
+* durvju
+* stūrmanis
+* durvis
+* durvis
+* ne
+
+
+* kuģiem
+* klintīm
+* kuģga
+* kuģi
+* signalizēja
+* kuģu
+* lāpstām
+* krūtīm.
+* krūtīm,
+* krāšņu
+* vairs nebija
+
+
+* krāšņu
+* krāsnis
+* krāsnis
+* krāsns
+* krāsu
+* spīdēja
+* krāsnis
+* krāsns
+* krāsu
+* vairs nebija kārtībā
+* krāšņu
+* stūrmaņa kajitē
+
+
+* trauki,
+* krāsnis,
+* lāpstu,
+
+
+
+
+* kuģu
+* skurstenī
+* maiznieks
+* miesnieks
+
+* šipšandlers
+
+
+* kuģa
+* ložu
+* mērkaķus
+* šļakatu

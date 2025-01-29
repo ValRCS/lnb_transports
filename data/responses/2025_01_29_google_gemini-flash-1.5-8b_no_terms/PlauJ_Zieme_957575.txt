@@ -1,0 +1,14 @@
+1. gājējs
+2. Ēzeliis
+3. kāpnes
+4. autobus
+5. tramvajs
+6. velosipēds
+7. ragavas
+8. bisi
+9. zirgi
+10. govis
+11. rats
+12. skrīvelis
+13. kuģītis
+14. vilciens

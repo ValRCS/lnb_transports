@@ -1,0 +1,11 @@
+* vilciens
+* automašīna
+* tramvajs
+* autobuss
+* ormanis
+* kuģis
+* taksītis
+* ātrvilciens
+* dzelzceļš
+* motorlaiviņa
+* rati

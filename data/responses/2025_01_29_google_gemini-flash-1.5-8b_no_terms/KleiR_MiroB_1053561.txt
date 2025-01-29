@@ -1,0 +1,14 @@
+1. vagonos
+2. rati
+3. vezums
+4. bēgļu mantas vezumus
+5. zirgs
+6. lokomotīve
+7. vilciens
+8. kaļa rati
+9. pajūgi
+10. rati
+11. rokas rateļi
+12. vagonetes
+13. ragavas
+14. auto

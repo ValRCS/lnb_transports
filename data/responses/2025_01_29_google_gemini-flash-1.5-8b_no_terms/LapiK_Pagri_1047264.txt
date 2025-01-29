@@ -1,0 +1,16 @@
+1. auto
+2. autobusu
+3. vagonotus
+4. trami
+5. takši
+6. vilcienu
+7. rati
+8. ormanis
+9. taksomotors
+10. lidmašīnu
+11. kājām
+12. tramvajā
+13. mēslu kaste
+14. automašīnas
+15. velosipēdi
+16. zirgi

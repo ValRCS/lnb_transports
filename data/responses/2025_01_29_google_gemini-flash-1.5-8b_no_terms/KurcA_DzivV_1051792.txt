@@ -1,0 +1,28 @@
+1. Ceļi
+2. Arkls
+3. Vāģis
+4. Tramvajvāģis
+5. Pontontilts
+6. Dzelzs tilts
+7. Dzirnavas
+8. Transportu (ir daudzos kontekstos vārda kategorija, nozīmē transportlīdzekli, bet nav precīzs)
+9. Arkli
+10. Kalpes
+11. Kamanas
+12. Karietes
+13. Vilciens
+14. Velosipēdi
+15. Autobuss
+16. Kuģis
+17. Laivas
+18. Pajūgi
+19. Žandarmiem
+20. Dragūni
+21. Lielgabals
+22. Raksti
+23. Ierocis
+24. Šautenes
+25. Revolveris
+26. Durkļi
+27. Tipografija
+28. Mauzera

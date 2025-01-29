@@ -1,0 +1,84 @@
+1. brieži
+2. dzinēju suņi
+3. kustonis
+4. riteņu pēdu
+5. ceļu
+6. braucamais ceļš
+7. zirgs
+8. ekipāža
+9. rati
+10. briedis
+11. kramenīca
+12. bise
+13. jājamā pātaga
+14. suņi
+15. zirgs
+16. pajūgs
+17. lode
+18. pakava
+19. cirvis
+20. šķipele
+21. cūka
+22. arkls
+23. ecēšas
+24. sila
+25. staņķīši
+26. rija
+27. koka krūzītes
+28. bleķa kausiņi
+29. laterne
+30. skrošu maku
+31. pīpe
+32. gaile
+33. krauklis
+34. dzērve
+35. kriķītis
+36. irbe
+37. mednis
+38. sloka
+39. gulbis
+40. kramenica
+41. zāģis
+42. dukuru
+43. riksīši
+44. vilks
+45. āpsis
+46. jājiens
+47. čūča
+48. dzirnavas
+49. laktas
+50. rīki
+51. šķipeles
+52. kārtiņas
+53. kokle
+54. spārēm
+55. krīji
+56. kultas
+57. gultas
+58. skapi
+59. galdi
+60. dēļi
+61. stobra
+62. āmurs
+63. lākturis
+64. slazdi
+65. cilpas
+66. zīds
+67. bļodas
+68. karoti
+69. dzērieni
+70. dēļiem
+71. beņķi
+72. laternes
+73. izkapte
+74. ragavas
+75. vezums
+76. kulīti
+77. grozs
+78. aitas
+79. jērs
+80. sivēni
+81. govs
+82. teļi
+83. gotiņa
+84. knēvelis

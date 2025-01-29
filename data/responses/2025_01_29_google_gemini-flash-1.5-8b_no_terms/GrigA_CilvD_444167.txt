@@ -1,0 +1,6 @@
+* automobilis
+* autobuss
+* vilciens
+* lokomotīve
+* mašīna
+* taksometrs

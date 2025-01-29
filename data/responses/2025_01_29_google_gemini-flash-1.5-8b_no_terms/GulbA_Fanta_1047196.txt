@@ -1,0 +1,31 @@
+1. vagonā
+2. dzelzsceļa stacijā
+3. dzelzsceļa vilciens
+4. dzelzsceļa vagons
+5. privatvāģī
+6. vilcienā
+7. vagonā
+8. motorlaiva
+9. tvaikonis
+10. laiva
+11. kuģis
+12. zirgs
+13. pajūgi
+14. automobīlis
+15. automobilā
+16. auto
+17. ore
+18. kupeja
+19. vagonu
+20. lokomotive
+21. ešelons
+22. laivu
+23. kuģos
+24. motorlaivās
+25. baržas
+26. ešelons
+27. kuģa
+28.  preču vāģī
+29. maišeles
+30. tvaikonis
+31. autobuss

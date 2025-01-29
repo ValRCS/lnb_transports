@@ -1,0 +1,15 @@
+1. vilciens
+2. rati
+3. lokomotive
+4. vagonā
+5. zirgi
+6. pajūgi
+7. vāģi
+8. rati
+9. auto
+10. vilcienu
+11. autobusu
+12. automašīnas
+13. lopu uzpircēji
+14. zēģelnieks
+15. kuģi

@@ -1,0 +1,10 @@
+1. pasažieru vilciens
+2. vilciens
+3. autotaksi
+4. tramvajs
+5. laiva
+6. lokomotive
+7. laiviņa
+8. auto
+9. vāģis
+10. diližans

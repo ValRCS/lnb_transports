@@ -1,0 +1,10 @@
+1. vilciens
+2. taksometrs
+3. automobilis
+4. tramvajs
+5. pajūgs
+6. bēris
+7. traktors
+8. mašīna
+9. sējamā mašina
+10. pļaujamā mašina

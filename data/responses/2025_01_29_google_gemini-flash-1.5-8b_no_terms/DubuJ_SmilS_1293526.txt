@@ -1,0 +1,6 @@
+* rati
+* lokomotīve
+* vagons
+* auto
+* dzelzceļa vagonu
+* vilciens

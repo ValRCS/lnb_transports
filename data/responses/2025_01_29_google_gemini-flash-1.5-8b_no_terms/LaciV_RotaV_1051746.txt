@@ -1,0 +1,9 @@
+* burinieks
+* velkonis
+* laiva
+* jachta
+* ormanis
+* tramvajs
+* rati
+* vilciens
+* kuģis

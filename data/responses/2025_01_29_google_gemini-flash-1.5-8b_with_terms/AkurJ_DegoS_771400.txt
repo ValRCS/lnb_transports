@@ -1,0 +1,19 @@
+1.  **Keywords similar to land transportation vehicles present in the text:**
+
+2.  **List of similar keywords:**
+
+    * ormanis
+    * dzelzceļš
+    * kamanas
+    * velosipēds
+    * automašīna (this one is implied)
+    * mašīna (this one is implied)
+    * vilciens (this one is implied)
+    * ratos (implied, a type of carriage)
+    * pajūgs (implied, a type of harness)
+    * kariete (implied, a type of carriage)
+    * zirgs
+
+
+
+**Explanation:**  While the text doesn't explicitly mention *automašīna* or *mašīna* in the sense of modern automobiles,  the implied presence of vehicles like *kariete*, *ratos*, and the reference to *zirgs* clearly indicates the presence of land transport in the context.  The word *vilciens* also falls into the implied category as its use often refers to train transport.  "Pajūgs" implies that there may be a  carriage or wagon system.  "Ormanis" specifically refers to a person who drives a horse-drawn carriage, indicating such conveyances' presence.  "Dzelzceļš"  implies trains, "kamanas" implies sleds.

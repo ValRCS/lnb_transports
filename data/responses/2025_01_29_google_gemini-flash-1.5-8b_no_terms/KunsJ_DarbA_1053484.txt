@@ -1,0 +1,5 @@
+* ratus
+* lidmašīna
+* tramwajs
+* laiwa
+* ormanis

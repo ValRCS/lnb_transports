@@ -1,0 +1,7 @@
+* kuģis
+* vilnis
+* vagons
+* vilciens
+* automobils
+* auto
+* tramvajs

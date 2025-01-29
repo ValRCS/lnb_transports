@@ -1,0 +1,5 @@
+* tramvaji
+* automobiļu
+* ormani
+* vilciens
+* taksi

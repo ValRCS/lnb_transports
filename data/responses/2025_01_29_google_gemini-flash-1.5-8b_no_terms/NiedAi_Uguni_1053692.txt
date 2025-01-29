@@ -1,0 +1,20 @@
+1. ceļš
+2. pajūgs
+3. rati
+4. zirgi
+5. kamanas
+6. automobilis
+7. autobusi
+8. automobiļi
+9. vilciens
+10. lokomotive
+11. zirgs
+12. ratiņi
+13. pajūgi
+14. mašīna
+15. dzirnavu akmens
+16. skārpas
+17. grāvnieks
+18. vezumi
+19. krācis
+20. kuļammašīna

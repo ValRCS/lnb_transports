@@ -1,0 +1,9 @@
+```
+zirgi
+dzelzceļš
+ormanis
+kamanas
+velosipēds
+vilciens
+lokomotīve
+```

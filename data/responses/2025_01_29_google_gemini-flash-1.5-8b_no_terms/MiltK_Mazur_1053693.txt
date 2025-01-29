@@ -1,0 +1,4 @@
+* vilciens
+* mašīna
+* vāģis
+* lokāls

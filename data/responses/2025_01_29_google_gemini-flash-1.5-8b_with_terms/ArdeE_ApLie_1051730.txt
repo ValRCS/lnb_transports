@@ -1,0 +1,15 @@
+1.  zirgs
+2.  dzelzceļš
+3.  ormanis
+4.  pajūgs
+5.  kamanas
+6.  velosipēds
+7.  automašīna
+8.  mašīna
+9.  vilciens
+10. lokomotīve
+11. tramvajs
+12. bānītis
+
+
+**Note:**  While the text frequently describes various aspects of Roman life (including transportation), the keywords from the supplied list are not directly used in the *description* or *mention* of specific vehicles, but the general categories of transport like coaches/carts and some associated terms (e.g.,  "pajūgs")  are frequently present.  The listed keywords are used to refer to vehicles as a context of the text, but not as labels with a direct correspondence in vehicle description.

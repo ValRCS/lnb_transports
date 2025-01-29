@@ -1,0 +1,9 @@
+* vilciens
+* autobusā
+* tramvajā
+* pajūgi
+* rati
+* zirgi
+* ormaņi
+* laiva
+* nokavēšanos

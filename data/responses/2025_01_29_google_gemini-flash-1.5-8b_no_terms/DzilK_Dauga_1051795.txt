@@ -1,0 +1,12 @@
+* lakta
+* veseris
+* laiva
+* kamanas
+* zirgs
+* pajūgs
+* vilciens
+* automobiļi
+* tramvaji
+* plosti
+* barkas
+* kuģis

@@ -1,0 +1,17 @@
+1. gājis
+2. brauceji
+3. rati
+4. ratu
+5. zirgs
+6. zirgu
+7. vežumi
+8. vezumiem
+9. arklis
+10. kuņģe
+11. izkapts
+12. strīķis
+13. ori
+14. zirgus
+15. ķēve
+16. lops
+17. vērsis

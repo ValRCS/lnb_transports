@@ -1,0 +1,14 @@
+1. auto
+2. kareete
+3. dzelzszeļa
+4. laiva
+5. laiwiņas
+6. kareetes
+7. kuģi
+8. karŗa kuģi
+9. lokomotiwi
+10. ratos
+11. wagons
+12. jachta
+13. kanali
+14. kahrtejàs deenas

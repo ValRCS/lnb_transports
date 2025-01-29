@@ -1,0 +1,10 @@
+* autobusa
+* taksometra
+* motocikla
+* laivas
+* laivām
+* vilciens
+* automobīli
+* velosipēdi
+* rikšas
+* tvaikonītis

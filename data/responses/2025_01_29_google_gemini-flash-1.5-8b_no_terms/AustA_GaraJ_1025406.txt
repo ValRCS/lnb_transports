@@ -1,0 +1,20 @@
+1. gājieni
+2. soda ekspedīcijas
+3. ratiņi
+4. zirgi
+5. dzirnavas
+6. kamanas
+7. zirģelis
+8. auto
+9. vilciens
+10. tramvajs
+11. kuģis
+12. pasta rati
+13. karietes
+14. laivas
+15. flotes ekipažs
+16. kārrišķēvas
+17. velosipēds
+18. moto.
+19. droška
+20. automobils

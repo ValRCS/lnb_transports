@@ -1,0 +1,14 @@
+* auto
+* motorlaiva
+* laiva
+* pajūgs
+* zirgs
+* rikša
+* tvaikoņi
+* burenieki
+* trīsmastnieku
+* divmastu burenieku
+* velkonis
+* kamanas
+* motorlaivas
+* laivām

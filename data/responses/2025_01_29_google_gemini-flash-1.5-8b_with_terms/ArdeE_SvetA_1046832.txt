@@ -1,0 +1,7 @@
+1.  The keywords similar to terms in the provided list of land transportation vehicles are present in the text.
+
+2.  List of similar keywords:
+
+* dzelzceļš
+* bānītis
+* vilciens

@@ -1,0 +1,5 @@
+1. auto
+2. dzelzceļa vagoni
+3. lokomotīves
+4. rati
+5. wagonus

@@ -1,0 +1,8 @@
+* automašīnas
+* dzelzceļa vagoni
+* laivas
+* ormaņi
+* rati
+* zirgu pajūgi
+* velosipēdi
+* tramvaji
