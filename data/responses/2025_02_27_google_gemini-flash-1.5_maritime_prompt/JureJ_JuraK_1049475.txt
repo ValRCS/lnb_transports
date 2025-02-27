@@ -1,0 +1,72 @@
+laivu
+laiva
+laivas
+laiviņu
+laivas
+laivu
+laivā
+laiviņā
+laivā
+laivā
+laiva
+laivā
+laivu
+laivā
+laivas
+laivu
+laivas
+laivā
+laivas
+laivā
+laivas
+laiviņā
+laivu
+laivas
+laivā
+laivu
+laivas
+laivas
+čoliņu
+laivu
+laivas
+laivu
+laivas
+laivā
+laivu
+laivā
+laiviņā
+liellaiva
+lielaiva
+liellaivas
+liellaivu
+liellaivu
+laivas
+laivu
+liellaivas
+liellaivā
+laivā
+liellaivu
+laivā
+laivā
+laivu
+laivā
+laivas
+liellaiva
+liellaivas
+laivu
+laivas
+laivā
+laivas
+laivas
+laivā
+pils
+laivu
+
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

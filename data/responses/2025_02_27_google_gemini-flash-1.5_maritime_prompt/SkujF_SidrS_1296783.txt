@@ -1,0 +1,133 @@
+tvaikoņi
+hidroaeroplanu
+autogazomotori
+aerodrednautu
+aeroplana
+hidroaeroplanu
+aerostatu
+lidmašinu
+zemūdens laivu
+transportu
+zemūdens laivu
+hidroplani
+zemūdens laivu
+hidroplani
+zemūdens laivu
+kuģiem
+tvaikoņu
+tvaikoņu
+tvaikoņi
+kuģi
+zemūdens laivu
+hidroplani
+zemūdens laivu
+hidroplani
+zemūdens laivu
+transporta tvaikoņi
+zemūdens laivas
+hidroplani
+kuģiem
+zemūdens laivu
+transporta
+lidmašīnas
+zemūdens laivas
+zemūdens tankus
+zemūdens tanku
+transportu
+lidmašinu
+transportu
+lidmašīnu
+zemūdens laivas
+zemūdens laivas
+zemūdens laivu
+zemūdens laivu
+zemūdens laivas
+zemūdens laivu
+lidmašīnas
+zemūdens laivu
+hidroplānu
+zemūdens laivu
+zemūdens laivu
+zemūdens laivas
+zemūdens laivas
+lidmašīnu
+tvaikoņi
+kuģi
+jūras
+lidmašīnu
+zemūdens laivu
+kara kuģus
+hidroaeroplani
+mīnu trāleri
+zemūdens motori
+elektriski gaisa pūķi
+hidroaeroplanu
+karakuģi
+hidroaeroplanu
+karakuģi
+zemūdens kuģi
+zemūdenslaivu
+zemūdenslaivas
+zemūdenslaivas
+zemūdenslaivu
+zemūdenslaivas
+transporta
+lidmašīnu
+transportu
+lidmašīnu
+zemūdens laivu
+zemūdens laivas
+hidroaeroplani
+zemūdens laivas
+hidroplānu
+jūras
+zemūdenslaivas
+zemūdens laivas
+hidroaeroplānu
+zemūdens laivu
+hidroplānu
+zemūdens laivu
+hidroaeroplānu
+kuģi
+lidmašīnas
+laivas
+plosti
+lidmašīnu
+lidmašīnām
+lidmašīnu
+lidmašīnas
+zemūdens laivu
+motorslēpju
+земūdens laivu
+lidmašīnu
+lidmašīnu
+lidmašīnu
+lidmašīnas
+motorslēpju
+lidmašīnas
+lidmašīnas
+lidmašīnu
+lidmašinu
+lidmašīnu
+lidaparātu
+lidmašīnas
+lidmašīnu
+lidmašinas
+lidmašīnām
+lidmašīnu
+lidmašīnas
+lidmašīnas
+lidmašīnu
+lidmašīnu
+lidmašīnas
+lidmašīnas
+lidmašīnu
+lidmašīnas
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

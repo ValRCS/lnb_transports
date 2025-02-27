@@ -1,0 +1,83 @@
+lidomašīna
+lidmašīna
+lidmašīnas
+lidmašīnas
+lidmašīnu
+lidmašīnai
+lidmašīnā
+lidmašīnā
+lidmašīnas
+lidmašīnu
+lidmašīnā
+lidmašīnas
+lidmašīnas
+lidmašīnā
+lidmašīnu
+lidmašīna
+lidmašīnas
+lidmašīnas
+lidmašīnas
+lidmašīnu
+lidmašīnas
+lidmašīnā
+lidmašīnas
+lidmašīnu
+lidmašīna
+lidmašīnas
+lidmašīnu
+lidmašīna
+lidmašīna
+lidmašīnas
+lidmašīnas
+lidmašīnas
+lidmašīnas
+lidmašīna
+lidmašīnām
+lidmašīnā
+lidmašīnas
+lidmašīna
+lidmašīna
+lidmašīnā
+lidmašīnu
+lidmašīna
+lidmašīnas
+pajūgs
+pajūgs
+pajšūgs
+pajugiem
+pajūgs
+pajugā
+pajugā
+pajugā
+pajugā
+pajugā
+rati
+ratu
+ratus
+ratos
+ratiem
+ratu
+ratos
+ratos
+ratiem
+ratus
+ratiem
+ratiem
+ragavas
+ragavās
+vilciens
+vilciena
+vilcienā
+vilcienu
+vilciens
+automobiļiem
+kuģa
+
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

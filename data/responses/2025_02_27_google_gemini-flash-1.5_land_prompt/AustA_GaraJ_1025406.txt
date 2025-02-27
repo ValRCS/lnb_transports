@@ -1,0 +1,83 @@
+gājieniem
+kājās
+ratiņus
+kamanas
+pajugs
+karietes
+pajūgs
+vilciens
+ātrvilciens
+kuģis
+zirgs
+kamanām
+vežonim
+karietes
+ragavās
+sniega vedeju
+ragavās
+karietes
+kamanās
+kamanās
+tramvajs
+kamanas
+vilcienā
+kamanam
+ratiem
+tramvajs
+kamanās
+tramvajs
+ragavās
+karietē
+ragavās
+kamanās
+kamanās
+karietes
+kuģiti
+tramvaju
+pajugs
+tramvaju
+kupejā
+ātrvilciens
+vilcienu
+vilciens
+kamanām
+ratiņus
+kamanam
+ragavas
+tramvajs
+kamanas
+automobilī
+ratojām
+ratiem
+komitejām
+kamanam
+kamanās
+vilcienā
+kamanās
+kamanās
+vilcienā
+kamanās
+vilcienā
+kamanās
+vilcienā
+kamanās
+auto
+karietes
+ragavās
+kamanās
+kuģi
+ratiem
+kamanām
+vilcienā
+ratiņus
+kamanās
+auto
+
+
+System prompt:
+ You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

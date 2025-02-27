@@ -1,0 +1,53 @@
+tvaikonis
+bruņu mīņu licejiem
+torpedu laivas
+kaŗa kuģiem
+kaŗa floti
+bruņu kuģiem
+kreiseri
+transporta kuģis
+lielgaballaiva
+bruņu kugiem
+kreiseriem
+torpedu laivām
+lielgabalu laivu
+bruņu kreiseram
+kreiseriem
+torpedu laivām
+bruņotā kreisera
+mīnu kuģus
+torpedu laivas
+bruņotiem kreiseriem
+mīnu kuģiem
+bruņu kreiseri
+mīnu kuģi
+bruņu kuģiem
+kreiseriem
+bruņu kuģiem
+kreiseriem
+mīnu kuģi
+kamanās
+kamanās
+kamanās
+kamanās
+kamanās
+airu laivas
+laivas
+ratiem
+vilcienu
+kamanās
+kamanās
+tvaikonis
+laivas
+Džonkas
+laivas
+kamanās
+
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

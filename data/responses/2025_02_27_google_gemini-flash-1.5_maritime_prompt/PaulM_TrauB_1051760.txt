@@ -1,0 +1,50 @@
+gangvejs
+jachta
+preču tvaikonis
+jachta
+sacīkšu jachta
+burinieks
+briga
+laiva
+briga
+glābšanas laivas
+zvejlaivas
+motorkuteris
+tvaikonis
+tvaikonis
+motorkuteris
+buru jachta
+zvejlūtu osta
+kuģis
+kuteris
+preču vedējs
+tvaikonis
+zvejas kuģis
+preču kuģis
+robežsargu laiva
+laivas
+briga
+glābjamlaivas
+motorlaivas
+ogļu vedēji
+ogļu vedēji
+jūras velkonis
+kuģis
+tvaikonis
+barkase
+čoliņā
+laivas
+laivu
+motorlaivas
+tvaikonis
+tvaikoni
+tvaikonis
+
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

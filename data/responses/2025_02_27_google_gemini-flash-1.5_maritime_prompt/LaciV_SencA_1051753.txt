@@ -1,0 +1,166 @@
+motorlaiva „Kaija”
+motorlaiva
+laivu
+laiviņā
+tvaikonis
+štīmeri „Skotland”
+laivas
+laivu
+kuģi
+kuģītim
+kuģi
+kuģis
+kuģīši
+„āžiem”
+buru kuģi
+kuģus
+kuģiem
+kuģa
+kuģi
+kuģiem
+kuģi
+kuģus
+kuģis
+kuģiem
+kuģa
+kuģi
+kuģiem
+kuģis
+tvaikoņi
+kuģis „Gaita”
+kuģis
+kuģi
+kuģiem
+kuģi
+kuģis
+kuģu
+kuģi
+tvaikonis „Gaita”
+kuģu
+kuģi
+kuģiem
+kuģi
+kuģi
+kuģi
+kuģiem
+kuģis
+kuģi
+nedēļnieks
+kuģelis
+kuģiem
+kuģi
+kuģa
+kuģi
+jachtām
+jachta
+burenieku
+buru
+kuģus
+kuģa
+nedēļniekiem
+kuģiem
+tvaikoni
+tvaikoni „Skotland”
+kuģu
+tvaikonis „Skotland”
+kuģi
+tvaikonis „Skotland”
+kuģi
+tvaikoņu
+kuģīši
+kuģiem
+kuģis
+nedēļnieku
+kuģiem
+kuģus
+kuģi
+kuģi
+tvaikoni
+kuģi
+kuģi
+jūrā
+kuģi
+kuģu
+kuģiem
+kuģi
+nedēļnieks
+kuģi
+kuģis „Iron Castle”
+kuģi
+kuģa
+kuģi
+kuģis
+kuģiem
+kuģis
+kuģa
+kuģa
+kuģis
+kuģa
+kuģiem
+kuģis „Iron Castle”
+kuģiem
+kuģi
+kuģi
+kuģis
+kuģiem
+kuģi
+kuģiem
+kuģi
+kuģiem
+kuģis
+kuģi
+kuģi
+kuģi
+kuģi
+kuģi
+kuģiem
+kuģi
+kuģi
+jachtām
+jachta
+tvaikoņi
+tvaikonis
+galateja
+kuģi
+kuģis
+kuģiem
+galateja
+kuģis
+galateja
+kuģiem
+galateja
+kuģi
+kuģi
+kuģiem
+kuģus
+kuģis
+kuģiem
+burienēm
+kuģiem
+kuģiem
+kuģi
+kuģiem
+kuģi
+kuģus
+tvaikoņi
+kuģus
+kuģu
+kuģiem
+tvaikoņu
+kuģiem
+kuģiem
+tvaikonis „Iron Castle”
+kuģi
+kuģiem
+kuģis
+kuģis „Iron Castle”
+kuģi
+jachtā
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

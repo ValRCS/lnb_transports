@@ -1,0 +1,42 @@
+kuģis
+kuģiem
+fregāte
+fregate
+brigā
+brig
+fregātes
+fregātei
+fregāti
+korvete
+galeons
+galeonu
+barkasa
+flīti
+barku
+laivas
+laivu
+laivā
+laiviņā
+laivās
+barkā
+laiviniekiem
+laivām
+kušģis
+kušgiem
+kuši
+kuša
+kušu
+kuģši
+kuģim
+kuššī
+kuga
+kuģga
+kuša
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

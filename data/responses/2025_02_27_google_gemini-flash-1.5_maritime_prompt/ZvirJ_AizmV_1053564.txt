@@ -1,0 +1,110 @@
+Krievijas plostus
+plostiem
+smago ormaņu
+svešzemju tvaikoņiem
+plostu
+plostiem
+plostiem
+plostu
+plostiem
+jūrmalas vilcieni
+jūrmalas vilcienu
+svešzemju tvaikoņiem
+jūrmalas vilcienu
+tvaikonīša
+velkonī
+tvaikonīša
+vagonā
+tvaikonīša
+vagonos
+vagonu
+vezumiem
+vezumi
+vagonos
+vagonu
+vagonu
+vagonos
+vagonā
+vagonam
+vagonā
+vagonos
+vagoniem
+sanitārvilcienam
+automobiļu
+automobiļu
+automobiļu
+automobiļu
+automobiļu
+automobiļi
+automobiļi
+automobiļa
+automobiļi
+automobiļa
+automobiļa
+automobiļos
+automobiļa
+automobiļos
+automobiļos
+automobiļu
+automobiļa
+automobiļiem
+Agenskalna kuģīti
+tvaikonīša
+tvaikonīša
+vagonos
+vagonā
+vilcienam
+vilcienā
+ātrvilcienā
+ātrvilcienā
+vilcienam
+vilcienā
+vilcienu
+vilcienu
+vilcienā
+vilcienā
+vilcienam
+vilcienu
+vilciens
+vilcienā
+vilciena
+vilcienam
+vilcienā
+vilciena
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilciena
+vilcienā
+vilcienam
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilciena
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+vilcienā
+парохода
+
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

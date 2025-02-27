@@ -1,0 +1,40 @@
+tvaikoņi
+burinieki
+pilnkuģgi
+šoneri
+barkas
+brīgas
+jachtas
+bura kuģi
+diližanss
+pajūgi
+auto
+autobusi
+elektriskie dzelzceļi
+lokotīves
+elektrokaru
+aeroplani
+lidmašīnas
+elektrokars
+tvaikoņu
+burinieku flotīles
+tvaikoņi
+auto ar sevīšķu mazu tvaika mašīnu
+elektrisku motoru dzīti satiksmes līdzekļi
+lidmašīnas
+elektrokaru
+kreiseri „Rauna”
+burinieki
+stratosferas lidaparāti
+lidmašīnas
+elektrokars
+zemūdenē
+
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

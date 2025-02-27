@@ -1,0 +1,43 @@
+automobilī
+laivā
+plosts
+laivas
+automobiļa
+pajūgs
+mašīnu
+pajā
+auto
+mašīna
+automobilim
+automobiļa
+pajūgi
+mašīnas
+automobīlis
+pajūgs
+auto
+mašīnas
+automobilis
+vezuma
+pajūgs
+pajūgs
+vezuma
+pajūgs
+pajūgs
+pajūgi
+pajā
+pajā
+pajā
+pajūgi
+automobiļiem
+automobiļa
+plostu
+laivu
+
+
+System prompt:
+ You are an expert on Latvian language and maritime transportation.  
+Extract a comprehensive list of all mentioned maritime transportation vehicles from the given text.  
+Do not include any additional information — include only the maritime transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 
