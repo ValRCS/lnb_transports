@@ -1,0 +1,36 @@
+guļamvagonā
+ātrvilcienam
+automobiļi
+automobilī
+limuzīns
+lidmašīnā
+ešalonus
+vilcienā
+automobili
+traktori
+vagoniem
+vagonā
+ešalonu
+vilciens
+ātrvilcienam
+automobiļi
+automobilī
+limuzīnam
+lidmašīnā
+ešaloniem
+vilcienā
+automobili
+vagoniem
+vagonā
+ešaloniem
+vilcienā
+automobili
+
+
+System prompt:
+ You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

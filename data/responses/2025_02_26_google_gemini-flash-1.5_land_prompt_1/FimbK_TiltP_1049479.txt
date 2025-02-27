@@ -1,0 +1,40 @@
+kara spēka daļām
+ziemeļarmija
+kareivju rindās
+karaspēka nodaļas
+karaspēkam
+vācu kareivji
+latviešu kareivju patruļa
+rota
+pajūgu
+pulka karogam
+rotu
+patruļas
+armija
+karavīru
+bataljonu
+karaspēkā
+vezumi
+zirgus
+vilciens
+automobīilī
+zemnieku ratos
+karaspēka transporta ratos
+ormaņu pajūgos
+sanitārrati
+bruņotā vilciena
+pajūgi
+bruņumašīna
+divrati
+zirgs
+limuzins
+auto
+
+
+System prompt:
+ You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

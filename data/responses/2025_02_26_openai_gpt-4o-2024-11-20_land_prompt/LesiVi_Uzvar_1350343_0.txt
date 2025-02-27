@@ -1,0 +1,32 @@
+armijas zaldātiem
+bedrēm
+bērza stumbram
+dragūnu eskadrona
+frontēm
+kamanu ceļu
+kara rati
+karavīriem
+kaujas ratiem
+klēts durvīm
+lauksaimnieku ratiem
+lielceļu
+liepu kuplumā
+munīcijas vilcienam
+pagastskola
+patrulēt
+pieguļā
+ratnīcas darbi
+satiksmes līdzekļi
+smago ratu kulba
+svešzemju zirgi
+šofera vietu
+vētru brāzieni
+zirgu ratiem
+
+System prompt:
+ You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

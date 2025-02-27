@@ -1,0 +1,16 @@
+gājieni
+tramvajs
+kamanas
+rati
+karietes
+pajūgs
+ātrvilciens
+vilciens
+kuģis
+zirgs
+velosipēds
+automobilis
+orē
+kamanas
+droška
+rateļi

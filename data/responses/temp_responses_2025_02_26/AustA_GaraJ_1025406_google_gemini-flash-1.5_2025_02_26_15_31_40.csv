@@ -1,0 +1,33 @@
+response,count
+gājieni,3
+streiki,1
+demonstrācijas,0
+bēgšana,4
+karatavas,1
+pajūgs,2
+ratiņi,7
+kamanas,4
+karietes,5
+vilciens,17
+ātrvilciens,1
+zirgs,34
+ormaņi,1
+važonis,1
+kuģis,6
+kamanas,4
+ragavas,2
+tramvajs,2
+velosipēds,1
+automobilis,2
+ķerre,0
+orē,17
+rateļos,2
+droška,8
+kamanās,12
+
+You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: ,0
