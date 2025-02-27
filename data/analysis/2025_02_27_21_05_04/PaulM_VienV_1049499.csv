@@ -1,0 +1,52 @@
+consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt,count,consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt_2,count,2025_02_26_google_gemini-flash-1.5_land_prompt_1,count,2025_02_26_google_gemini-flash-1.5_land_prompt_2,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt_2,count
+atsperu rati,0.0,atsperu rati,0.0,"""mazais bānītis""",0.0,"""mazais bānītis""",0.0,auto,5,auto,5.0
+autobuss,0.0,auto,5.0,Rīgā,3.0,automobiļi,0.0,auto,5,autobusu,1.0
+bānītis,5.0,divzaru dakšas,0.0,autobusu,1.0,laivas,2.0,auto,5,automobili,1.0
+ekseļi,0.0,grābeklis,1.0,automobili,1.0,rati,8.0,autobusu,1,automobili,1.0
+griezējmašīnas,0.0,kuļmašīna,3.0,laivas,2.0,vezumam,0.0,automobili,1,bānītis,5.0
+kartupeļu rokama mašīna,0.0,kājslidas,0.0,laukos,2.0,vilciens,8.0,automobili,1,lokomotīve,7.0
+kravas rati,0.0,mazais bānītis,2.0,pajūgu,1.0,,,bānīti,9,makšēri,0.0
+kuļmašīna,3.0,rati,8.0,rati,8.0,,,bānīša,1,mazo bānīti,3.0
+rati,8.0,vagoniņi,0.0,vezuma,0.0,,,dzelzceļa,4,rati,8.0
+velosipēds,0.0,vilciens,8.0,vilciens,8.0,,,dzelzceļš,1,sliedēm,3.0
+vilciens,8.0,zirgi,5.0,,,,,dzirkļainie,1,soli,8.0
+zirgi,5.0,,,,,,,ekseļus,2,vagoniņus,1.0
+čačka,0.0,,,,,,,lokomotīve,7,vagonos,3.0
+,,,,,,,,lokomotīve,7,vagons,1.0
+,,,,,,,,lokomotīve,7,vilcieniņš,1.0
+,,,,,,,,lokomotīves,3,vilciens,8.0
+,,,,,,,,makšķeri,6,vilcienu,4.0
+,,,,,,,,mašīnas,8,vēlīenu,0.0
+,,,,,,,,mašīnas,8,zirgiem,2.0
+,,,,,,,,mašīnas,8,šauršliežu dzelzceļš,0.0
+,,,,,,,,pasažieru,2,,
+,,,,,,,,rati,8,,
+,,,,,,,,ratiem,2,,
+,,,,,,,,ratiem,2,,
+,,,,,,,,ratiņi,0,,
+,,,,,,,,ratnīca,2,,
+,,,,,,,,ratnīca,2,,
+,,,,,,,,sliedēm,3,,
+,,,,,,,,stallis,1,,
+,,,,,,,,tējmašīna,2,,
+,,,,,,,,uzbērumā,1,,
+,,,,,,,,vagona,3,,
+,,,,,,,,vagona,3,,
+,,,,,,,,vagoniņus,1,,
+,,,,,,,,vagonos,3,,
+,,,,,,,,vagonos,3,,
+,,,,,,,,vilcienam,1,,
+,,,,,,,,vilcienam,1,,
+,,,,,,,,vilcieniņš,1,,
+,,,,,,,,vilciens,8,,
+,,,,,,,,vilciens,8,,
+,,,,,,,,vilciens,8,,
+,,,,,,,,vilcienu,4,,
+,,,,,,,,vilcienu,4,,
+,,,,,,,,vilcienu,4,,
+,,,,,,,,vilcienu,4,,
+,,,,,,,,vilcienu,4,,
+,,,,,,,,vilcienu,4,,
+,,,,,,,,vilcienu,4,,
+,,,,,,,,vēja motora,3,,
+,,,,,,,,zirgiem,2,,

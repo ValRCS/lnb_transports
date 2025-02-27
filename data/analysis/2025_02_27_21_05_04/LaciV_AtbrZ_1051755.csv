@@ -1,0 +1,18 @@
+consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt,count,consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt_2,count,2025_02_26_google_gemini-flash-1.5_land_prompt_1,count,2025_02_26_google_gemini-flash-1.5_land_prompt_2,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt_2,count
+autobuss,0.0,- nezdogu,0.0,auto,25.0,auto,25.0,auto,25,auto,25.0
+automašīna,0.0,kamanas,2.0,autobuss,0.0,autobuss,0.0,auto,25,autobusu,1.0
+brauciens,1.0,tramvaja,5.0,kamanas,2.0,kamanas,2.0,auto,25,automašīnas,0.0
+kamanas,2.0,vijolnieka,2.0,kuģis,10.0,lidmašīna,2.0,auto,25,kamanas,2.0
+rikšotājs,1.0,,,lidmašīna,2.0,limūzīns,0.0,autobuss,0,limuzini,2.0
+tramvajs,2.0,,,limuzīns,0.0,motocikls,0.0,autobusā,2,tramvaja,5.0
+vagons,0.0,,,motocikls,0.0,tramvajs,2.0,autobusā,2,tramvajs,2.0
+,,,,motorlaiva,6.0,velosipēdi,0.0,kamanas,2,велосипед,0.0
+,,,,tramvajs,2.0,vilciens,0.0,kamanu,1,,
+,,,,tvaikonis,4.0,,,limuzini,2,,
+,,,,velosipēds,0.0,,,rikšotājs,1,,
+,,,,vilciens,0.0,,,riteņi,1,,
+,,,,,,,,tramvaja,5,,
+,,,,,,,,tramvajs,2,,
+,,,,,,,,tramvaju,2,,
+,,,,,,,,tramvaju,2,,
+,,,,,,,,tramvaju,2,,

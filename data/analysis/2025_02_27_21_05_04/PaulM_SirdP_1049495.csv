@@ -1,0 +1,24 @@
+consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt,count,consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt_2,count,2025_02_26_google_gemini-flash-1.5_land_prompt_1,count,2025_02_26_google_gemini-flash-1.5_land_prompt_2,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt_2,count
+auto,23.0,auto,23.0,auto,23.0,auto,23.0,auto,23,Vilciens,2.0
+automobīlis,0.0,limuzīns,0.0,automobīlis,0.0,autobusi,2.0,auto,23,auto,23.0
+kupeja,4.0,smagmašīna,0.0,kupeja,4.0,limuzīni,1.0,autobusiem,1,auto,23.0
+limuzīns,0.0,tramvajs,0.0,limuzīns,0.0,taksometrs,2.0,automobīlī,1,auto,23.0
+mašīna,6.0,vagons,0.0,tak sometrs,0.0,tramvaji,1.0,dzelzceļa ierēdņu,1,automobīlī,1.0
+motorlaiva,3.0,ātrvilciens,1.0,tramvaji,1.0,vezumam,0.0,jachta,8,biksēs,1.0
+motors,2.0,,,vagons,0.0,ātrvilciens,1.0,kupejās,1,kupejā,7.0
+taksometrs,2.0,,,vezumi,1.0,,,limuzīni,1,limuzīni,1.0
+tramvajs,0.0,,,vilciens,2.0,,,limuzīnā,1,tramvaja,1.0
+vagons,0.0,,,ātrvilciens,1.0,,,nesēju,4,tramvaji,1.0
+vilciens,2.0,,,,,,,smagie vezumi,1,vagonos,1.0
+ātrvilciens,1.0,,,,,,,taksometrs,2,vezumi,1.0
+,,,,,,,,taksometrā,1,ātrvilciens,1.0
+,,,,,,,,tiltiem.,1,,
+,,,,,,,,tramvaja,1,,
+,,,,,,,,tramvaja logs,0,,
+,,,,,,,,tramvaji,1,,
+,,,,,,,,vagoniem,0,,
+,,,,,,,,vagonos,1,,
+,,,,,,,,vezumi,1,,
+,,,,,,,,vilciens,2,,
+,,,,,,,,ātrvilciens,1,,
+,,,,,,,,īres nams,1,,

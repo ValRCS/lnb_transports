@@ -1,0 +1,57 @@
+consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt,count,consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt_2,count,2025_02_26_google_gemini-flash-1.5_land_prompt_1,count,2025_02_26_google_gemini-flash-1.5_land_prompt_2,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt_2,count
+apaugstošā mašīna,0.0,armaijas,0.0,auto,17.0,auto,17.0,artilerija,43.0,Kugīšus,1
+artiletriju,0.0,auto,17.0,automobilis,1.0,automobilis,1.0,divriteni,2.0,divriteni,2
+bumbu metējs,0.0,bataljons,44.0,divriteni,2.0,divriteni,2.0,divritenī,2.0,divriteni,2
+divritenī,2.0,braucamais,0.0,divritenī,2.0,divriteni,2.0,divriteņus,2.0,divritenī,2
+durkļu cīņa,1.0,brašļus,1.0,divriteņiem,1.0,divriteni,2.0,jātniekiem,2.0,divriteņiem,1
+jātnieki,23.0,cepure,11.0,divriteņus,2.0,divriteni,2.0,kugīšus,0.0,divriteņus,2
+jātnieks,3.0,degunus,0.0,jātniekus,1.0,divriteņus,2.0,laivās,7.0,divriteņus,2
+karavans,0.0,divriteni,2.0,kavalerija,1.0,divriteņus,2.0,liellaivas,2.0,jātnieki,23
+kareivji,34.0,ietvars,0.0,kokasu vāģus,1.0,divriteņus,2.0,ormani,0.0,jātnieki,23
+kartiņš,0.0,jātnieki,23.0,laivas,10.0,jātniekus,1.0,pajūgi,5.0,jātniekiem,2
+kazaku vienības,1.0,kareivji,34.0,laivu,3.0,kamanas,1.0,rati,8.0,jātniekiem,2
+liellaivas,2.0,kareivjs,0.0,laivu,3.0,kuģīšus,0.0,ratiņš,1.0,jātniekiem,2
+ložmetēji,14.0,kazaki,13.0,laivā,11.0,laivas,10.0,riteņbraucējus,1.0,jātnieku,15
+ložmetējs,13.0,laivas,10.0,laivās,7.0,laivas,10.0,velkoņi,2.0,jātnieku,15
+mētelis,1.0,lielgabali,1.0,lielaiva,0.0,laivas,10.0,velkoņiem,1.0,jātnieku,15
+plosts,2.0,mašīnas,11.0,pajūgi,5.0,liellaivas,2.0,vezdama,1.0,kazaku vienības,1
+ratiņš,1.0,milicis,2.0,pajūgiem,2.0,pajūgi,5.0,vezumnīteku,0.0,kokasu vāģus,1
+rindas vezumnieku,0.0,municijas,4.0,pajūgos,1.0,pajūgi,5.0,vāģiem,2.0,kuģīšu,1
+riteņbraucēji,3.0,patruļas,6.0,ragavas,1.0,pajūgos,1.0,zirgus,15.0,kājnieku,3
+transporta karaspēks,0.0,plosts,2.0,ratiem,0.0,pajūgu,2.0,zirgā,1.0,liellaivas,2
+transportam,2.0,pulks,25.0,ratu,7.0,ragavas,1.0,šoseju,24.0,liellaivu,1
+velkoņi,2.0,pājūgus,0.0,riteņbraucēju,6.0,ratiņš,1.0,žogiem,8.0,pakavi,3
+vācu jātnieki,4.0,ragavas,1.0,riteņbraucējus,1.0,ratus,1.0,,,pakaviem,2
+zemessargi,5.0,ratiņš,1.0,velkoņi,2.0,riteņbraucēju,6.0,,,ratiņķi,0
+zirgi,31.0,riteņbraucēji,3.0,velkoņiem,1.0,riteņbraucējus,1.0,,,ratiņš,1
+šauteņu uguns,6.0,rītu rati,0.0,vezumu,5.0,velkoņi,2.0,,,ratiņš,1
+,,sargs,3.0,vezumā,1.0,velkoņiem,1.0,,,riteņbraucēju,6
+,,smagie rati,0.0,vilcienu,0.0,vezumnieku,2.0,,,riteņbraucēju,6
+,,sug abas,0.0,zirdziņi,1.0,vezumnieku,2.0,,,riteņbraucēju,6
+,,sētas šķirba,0.0,zirgu,24.0,vezumā,1.0,,,riteņbraucējus,1
+,,transports,2.0,zirgus,15.0,vilcienā,1.0,,,rītos,1
+,,tālskaats,0.0,,,vilcienā,1.0,,,sedliem,3
+,,vagona,1.0,,,zirgus,15.0,,,sedliem,3
+,,vagons,0.0,,,,,,,sedliem,3
+,,vezumi,3.0,,,,,,,sedlos,2
+,,vezumi,3.0,,,,,,,velkoņa,1
+,,vezumnieki,1.0,,,,,,,velkoņiem,1
+,,vilciens,5.0,,,,,,,vezdama,1
+,,virkne balse,0.0,,,,,,,vezumiem,3
+,,vāģi,3.0,,,,,,,vezumnieku,2
+,,vāģus,1.0,,,,,,,zirdziņi,1
+,,zirdziņi,1.0,,,,,,,zirgi,31
+,,ķēde,10.0,,,,,,,zirgi,31
+,,ķēves,0.0,,,,,,,zirgi,31
+,,šautene,38.0,,,,,,,zirgi,31
+,,,,,,,,,,zirgi,31
+,,,,,,,,,,zirgiem,11
+,,,,,,,,,,zirgu,24
+,,,,,,,,,,zirgu,24
+,,,,,,,,,,zirgus,15
+,,,,,,,,,,zirgus,15
+,,,,,,,,,,zirgus,15
+,,,,,,,,,,zirgus,15
+,,,,,,,,,,zobeni,2
+,,,,,,,,,,zobeni,2
+,,,,,,,,,,šoseju,24

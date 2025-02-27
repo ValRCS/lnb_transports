@@ -1,0 +1,21 @@
+consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt,count,consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt_2,count,2025_02_26_google_gemini-flash-1.5_land_prompt_1,count,2025_02_26_google_gemini-flash-1.5_land_prompt_2,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt_2,count
+arkls,0.0,autiņi,1,auto,19.0,automobilī,3.0,auto,19.0,auto,19.0
+blūze,0.0,autiņsargs,0,automobilis,3.0,automobiļiem,1.0,auto,19.0,auto,19.0
+gājēji,3.0,drosmes lielceļš,0,automobilī,3.0,automobiļos,1.0,automobilī,3.0,automobilī,3.0
+ragavas,0.0,dzirnavu zirgi,0,automobilī,3.0,kamanas,2.0,automobiļi,1.0,automobiļiem,1.0
+rati,10.0,gājēji,3,automobiļiem,1.0,ragavās,1.0,kamanas,2.0,automobiļos,1.0
+skrējējs,0.0,kamanas,2,automobiļos,1.0,rati,10.0,kamaniņas,0.0,ceļu,17.0
+trakais raguļa,0.0,karieta,0,automobiļos,1.0,,,lielceļam,1.0,kamanas,2.0
+vagoni,3.0,kurpes,4,kamanas,2.0,,,pa ceļu,3.0,kamanas,2.0
+vāģi,2.0,kūts,0,kamanas,2.0,,,pa ceļu,3.0,lielceļam,1.0
+vāģi,2.0,kūts zosis,0,ragavās,1.0,,,ragavās,1.0,ragavās,1.0
+рārvadаjumи,0.0,lielceļš,0,rati,10.0,,,ratiem,0.0,rati,10.0
+,,liepām līdzenā karieta,0,rati,10.0,,,sliede,3.0,vagoni,3.0
+,,ragavas,0,rati,10.0,,,vagoni,3.0,zirga,4.0
+,,soļi,13,skrējējs,0.0,,,vagoni,3.0,zirga,4.0
+,,trepes,1,tālumā aizjoņojošus zirgus,0.0,,,zirgi,1.0,zirgam,2.0
+,,trotuars,0,tālumā aizjoņojošus zirgus,0.0,,,zirgu,13.0,zirgi,1.0
+,,trīsstāvīga stacijas ēka,0,vilcienā,1.0,,,,,zirgu,13.0
+,,vērtīgais dīvāns,0,vāģiem,2.0,,,,,zirgu,13.0
+,,zirgi,1,ķerru,1.0,,,,,zirgus,4.0
+,,šoseja,1,,,,,,,,

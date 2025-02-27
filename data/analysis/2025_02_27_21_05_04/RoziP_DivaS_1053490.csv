@@ -1,0 +1,17 @@
+consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt,count,consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt_2,count,2025_02_26_google_gemini-flash-1.5_land_prompt_1,count,2025_02_26_google_gemini-flash-1.5_land_prompt_2,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt_2,count
+auto,7.0,automobilis,0.0,ešelons,1.0,rāti,23.0,auto,7,arklus,1.0
+dzelzscietos,1.0,bērnu ratiņi,0.0,jātnieku,1.0,vagonam,1.0,autobuss,0,automašīnas,0.0
+lokomotives,1.0,divriteņi,0.0,kājam,2.0,vilcienā,1.0,automobīlis,0,galdu,4.0
+rati,19.0,dzelzceļa vagoni,0.0,lokomotives,1.0,,,biksās,1,galife biksās,0.0
+vagonus,1.0,dzelzceļš,0.0,promsūtamo,1.0,,,jātnieku pātadziņu,1,galifē biksās,1.0
+veda,9.0,lokomotīves,0.0,promsūtamo,1.0,,,kuģis,1,jātnieku,1.0
+zabrikās,1.0,rati,19.0,pātadziņu,1.0,,,lokomotīves,0,kafejnicās,2.0
+,,vezumi,0.0,rati,19.0,,,pa bulvariem,0,karietes,0.0
+,,vilciens,2.0,ratiem,1.0,,,pa ielam,1,lokomotīves,0.0
+,,,,vagonam,1.0,,,platmali,2,tramvajiem,0.0
+,,,,vagonus,1.0,,,tramvajs,0,vagonu,1.0
+,,,,vagonā,6.0,,,trolejbuss,0,vagonus,1.0
+,,,,vilcienā,1.0,,,vagoni,0,vilcienā,1.0
+,,,,zābakos,1.0,,,veli,0,zirgi,1.0
+,,,,,,,,zvārkus,1,,
+,,,,,,,,ēna,8,,

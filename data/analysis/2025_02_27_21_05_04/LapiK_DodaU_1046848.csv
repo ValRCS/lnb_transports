@@ -1,0 +1,25 @@
+consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt,count,consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt_2,count,2025_02_26_google_gemini-flash-1.5_land_prompt_1,count,2025_02_26_google_gemini-flash-1.5_land_prompt_2,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt_2,count
+automobiļi,0.0,automobīļu,0.0,automašīnu,1.0,automašīnas,0.0,automašīnu,1.0,Maskavas ciemiņu ratu,1
+ekspresis,4.0,drošku,1.0,droška,0.0,droška,0.0,automobili,0.0,Ormaņu rindu,0
+karapas,0.0,liftu,3.0,ekspresis,4.0,ekspresis,4.0,dzelzceļa,1.0,Pajūgs,0
+ormaņi,0.0,ormaņu,1.0,ešalons,2.0,ešalons,2.0,ekspresis,4.0,autobus,0
+rat,39.0,ratu,7.0,ormanis,1.0,ormaņi,0.0,liftu,3.0,automašīna,0
+sleji,0.0,speciālvagonu,1.0,ormaņi,0.0,rati,16.0,nesēji,3.0,automašīnu,1
+taksomotori,0.0,taksomotoru,1.0,pajūgi,1.0,speciālvagonu,1.0,ormani,3.0,automašīnu,1
+vojeniļka,0.0,vāģi,0.0,ratu,7.0,taksomotori,0.0,ormaņu,1.0,divjūgs,0
+,,,,speciālvagonu,1.0,tramvaji,0.0,ratu,7.0,divjūgs,0
+,,,,taksomotoru,1.0,vilciens,7.0,sirms ekspresis,0.0,divjūgu,2
+,,,,vilciens,7.0,,,speciālvagonu,1.0,drošku,1
+,,,,,,,,taksomotoru,1.0,ekspresis,4
+,,,,,,,,trolejbuss,0.0,ešalons,2
+,,,,,,,,trošu,0.0,liftu,3
+,,,,,,,,vagons,0.0,ormanis,1
+,,,,,,,,,,pajūgi,1
+,,,,,,,,,,pajūgs,0
+,,,,,,,,,,rati,16
+,,,,,,,,,,ratu,7
+,,,,,,,,,,speciālvagonu,1
+,,,,,,,,,,taksomotoru,1
+,,,,,,,,,,trolejbuss,0
+,,,,,,,,,,vagons,0
+,,,,,,,,,,vilcienu,7

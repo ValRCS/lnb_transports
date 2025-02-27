@@ -1,0 +1,40 @@
+consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt,count,consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt_2,count,2025_02_26_google_gemini-flash-1.5_land_prompt_1,count,2025_02_26_google_gemini-flash-1.5_land_prompt_2,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt_2,count
+atsperu ratu,1.0,atsperu rati,0.0,automobilis,4,automobilis,4.0,atsperu ratu,1.0,atsperu ratu,1.0
+divričiem,0.0,ceļa rati,0.0,automobilis,4,automobilis,4.0,automobilis,4.0,dzelzasu ratos,1.0
+dzelzasu ratos,1.0,droška,4.0,automobilis,4,automobilis,4.0,automobilis,4.0,kamanas,8.0
+kamanas,8.0,dzelzasu rati,0.0,automobilis,4,droškas,4.0,droškas,4.0,kariete,1.0
+kreslī,1.0,izkapts,0.0,kamanas,8,dzelzasu ratos,1.0,droškas,4.0,kurvjdroškā,2.0
+kurvjdroškā,2.0,kamanas,8.0,kamanas,8,kamanas,8.0,dzelzasu ratos,1.0,līnijdroškas,2.0
+līnijdroškas,2.0,kurvjdroška,0.0,kamanas,8,kamanām,2.0,kamanas,8.0,pajūgu,1.0
+līnijdroškas,2.0,līnijdroška,2.0,kamanas,8,kamanās,2.0,kamanas,8.0,rati,11.0
+mazās droškas,0.0,olnīca,3.0,kamanas,8,kamanās,2.0,kamanas,8.0,ratus,2.0
+pajūgi,2.0,pajūgs,0.0,kamanas,8,kreslī,1.0,kamanas,8.0,vezumnieku pajūgi,0.0
+rat,56.0,pasta kamanas,0.0,kamanas,8,kurvjdroškā,2.0,kamanām,2.0,vezumu,1.0
+ratus,2.0,pļaujmašīna,1.0,kamanas,8,līnijdroškas,2.0,kamanām,2.0,zirgi,8.0
+vezumu,1.0,rati,11.0,kamanas,8,pajūgi,2.0,kamanām,2.0,zirgs,8.0
+,,rati,11.0,kamanām,2,pajūgu,1.0,kuļamās mašīnas,0.0,,
+,,vezums,1.0,kamanām,2,ratiem,3.0,lauksaimniecības mašīnām,1.0,,
+,,,,kamanām,2,ratiem,3.0,lauksaimniecības mašīnām,1.0,,
+,,,,kamanām,2,ratos,5.0,līnijdroškas,2.0,,
+,,,,kamanās,2,ratus,2.0,pajūgi,2.0,,
+,,,,kamanās,2,vezumu,1.0,pajūgu,1.0,,
+,,,,kamanās,2,vilcienā,1.0,pātagu,5.0,,
+,,,,kamanās,2,,,pēdējiem,0.0,,
+,,,,kamanās,2,,,rati,11.0,,
+,,,,kamanās,2,,,rati,11.0,,
+,,,,kreslī,1,,,rātiem,0.0,,
+,,,,olnīcā,2,,,vezumnieku pajūgi,0.0,,
+,,,,pajūgi,2,,,vezumu,1.0,,
+,,,,pajūgu,1,,,zirgam,5.0,,
+,,,,rati,11,,,zirgi,8.0,,
+,,,,rati,11,,,zirgi,8.0,,
+,,,,rati,11,,,zirgiem,3.0,,
+,,,,rati,11,,,zirgs,8.0,,
+,,,,rati,11,,,zirgs,8.0,,
+,,,,rati,11,,,zirgu,31.0,,
+,,,,rati,11,,,zirgu,31.0,,
+,,,,rati,11,,,zirgu,31.0,,
+,,,,ratiem,3,,,zirgu,31.0,,
+,,,,ratiem,3,,,,,,
+,,,,ratiņi,2,,,,,,
+,,,,vezumu,1,,,,,,

@@ -1,0 +1,23 @@
+consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt,count,consolidated_2025_02_26_openai_gpt-4o-2024-11-20_land_prompt_2,count,2025_02_26_google_gemini-flash-1.5_land_prompt_1,count,2025_02_26_google_gemini-flash-1.5_land_prompt_2,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt,count,2025_02_27_google_gemini-2.0-flash-001_land_prompt_2,count
+auto,35.0,auto,35.0,auto,35.0,auto,35.0,auto,35,auto,35.0
+auto,35.0,auto,35.0,autobus,1.0,automobiļos,1.0,auto,35,auto,35.0
+auto,35.0,autotaksī,6.0,automobiļos,1.0,ielu dzelzceļi,1.0,autobuss,1,auto,35.0
+autobuss,1.0,grozi,3.0,bagarmašīnu,1.0,ielu dzelzceļā,1.0,bagarmašīnu,1,balalaikas,2.0
+gadu vilciens,0.0,laiva,8.0,cepelīns,0.0,laivā,4.0,balalaikai,1,balalaiku,1.0
+ielas dzelzceļš,0.0,laivas,6.0,ielu dzelzceļš,0.0,pajugā,0.0,botes,1,botes,1.0
+iepirkuma,1.0,plosti,8.0,laivu,6.0,plostiem,7.0,divrindu ermonikām,0,cirvi,12.0
+laiva,8.0,radžu tiltiem,0.0,lokomotīve,2.0,rat'os,0.0,ielu dzelzceļi,1,ermonikas,3.0
+pasts,0.0,tramvaji,1.0,pajūgā,2.0,tramvajs,1.0,ielu dzelzceļā,1,ielu dzelzceļi,1.0
+plosti,8.0,tvaikonī,1.0,plostiem,7.0,važonī,1.0,kazaka,1,ielu dzelzceļā,1.0
+ratā,0.0,vagoni,2.0,ratē,3.0,vilcieni,4.0,pajūgā,2,plostiem,7.0
+tramvaja,0.0,važoņi,1.0,traktori,1.0,vāgonā,0.0,ratiem,0,rati,7.0
+tramvajs,1.0,vilcieni,4.0,tramvajs,1.0,,,ratus,0,ratus,0.0
+tvaikonis,0.0,vilcienu,5.0,vagonos,2.0,,,traktori,1,traktori,1.0
+vagoni,2.0,šņoraiņi,2.0,važonis,0.0,,,tramvajs,1,tramvajs,1.0
+velosipēds,0.0,,,vilcieni,4.0,,,tvaikoņos,1,vagonos,2.0
+vilciens,3.0,,,,,,,vagonos,2,vilcieni,4.0
+vilciens,3.0,,,,,,,vagonos,2,vilciens,3.0
+,,,,,,,,vagonā,4,zābaciņu,1.0
+,,,,,,,,vilcieni,4,zābaki,2.0
+,,,,,,,,zirgs,2,zābaku,5.0
+,,,,,,,,zābaciņu,1,,
