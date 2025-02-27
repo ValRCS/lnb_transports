@@ -1,0 +1,67 @@
+jātniekiem
+riteņbraucējus
+zirgi
+kazaku vienības
+zirgus
+kājnieku
+zirgus
+riteņbraucēju
+zirgus
+zirgi
+zirgus
+ratiņš
+Kugīšus
+velkoņiem
+liellaivas
+liellaivu
+velkoņa
+kuģīšu
+ratiņš
+divriteni
+divritenī
+jātnieku
+divriteni
+jātnieku
+jātnieku
+vezumnieku
+šoseju
+zirgu
+pakavi
+kokasu vāģus
+zirdziņi
+vezdama
+riteņbraucēju
+divriteņiem
+divriteņus
+riteņbraucēju
+divriteņus
+jātnieki
+jātniekiem
+sedliem
+sedliem
+zirgi
+sedliem
+zirgu
+zirgiem
+zirgi
+pakaviem
+zobeni
+jātniekiem
+sedlos
+zirgi
+zobeni
+jātnieki
+ratiņķi
+vezumiem
+rītos
+
+
+System prompt:
+ You are an expert on Latvian language and land transportation.   
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.   
+Include: Any specific vehicles used for land transport (e.g., cars, buses, bicycles, motorcycles, trains, trams, sleighs, horse carriages, etc.). 
+Exclude: Any vehicles that are not used for land transportation (e.g., airplanes, hot air balloons, boats, ships, etc.). 
+Do not include any additional information — include only the land transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

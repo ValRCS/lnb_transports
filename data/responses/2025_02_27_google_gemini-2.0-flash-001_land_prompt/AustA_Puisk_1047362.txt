@@ -1,0 +1,76 @@
+Skanuļi
+ratiem
+asis
+ratiņu
+dreimaņi
+ratiņu
+jeb ratiņu
+ratiņu
+ratiem
+rati
+ratu
+rati
+Dūkani
+pie kādas slitas
+paliek uz ratiem.
+azjūdz Dūkani
+ratos
+Dūkani
+kuru tad aizstiepj sēkdami
+uz ratiem.
+pabailīga
+tēvs skubina Dūkanīti
+jābrauc uz Rēpēniem ar lielo pudeli, kas ielikta pītā grozā, un
+rātiņi
+Pēteris aizjūdz zirgu
+no ratiem,
+no ratiņiem
+pa lielceļu,
+ierdzot jaunu sēdekli un .aizveda Dūkani
+dūšīgi vērpj?
+ratiņš aizgājis pa rubli
+jāsteidz darbs,-lai nenokavētu paredzēto
+tirgu igauņos vai Latgalē, kur ratiņus visvairāk
+vēl pieprasīja .
+preferanss.
+RATIŅŠ
+ziemas klusumu nereti pārvērš par
+ratiņš sastopams vairs tikai
+ratiņu dreimaņi
+dēla stāstu par ratiņu,
+malku no Grotužu meža, jo kas
+ragavu ceļš
+no savas ataugas priekš
+ratiņiem.
+rati
+jājūdz
+zirgs
+un jābrauc uz Crotužu mežu pēc spoļu
+spolītes
+Tā esam
+rati
+un mēs stenājamies atvadīties.
+Uz
+vien atkauties no Lavenii suņiem. Uz krustcelēm eglu
+no visa prātā nav palicis.
+tēvs piesien Dūkani
+Svēcainē
+atskatās vēl pie durvīm atpakaļ, noteikdams:
+Dūķani
+ratiņa
+dūkoņu, kas
+ratiņš
+vērpām" ratiņu,
+ratiņš
+ragavu ceļš.
+ratiņi
+vezums
+
+
+System prompt:
+ You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

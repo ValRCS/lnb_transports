@@ -1,0 +1,44 @@
+pajūgu
+zirgi
+rati
+atsperu ratu
+līnijdroškas
+dzelzasu ratos
+vezumu
+zirgs
+zirgi
+zirgu
+vezumnieku pajūgi
+pajūgi
+zirgu
+zirgiem
+rātiem
+droškas
+droškas
+automobilis
+pēdējiem
+zirgam
+kamanas
+kamanām
+kamanas
+zirgu
+automobilis
+zirgs
+kamanām
+kamanas
+kamanām
+kamanas
+pātagu
+lauksaimniecības mašīnām
+lauksaimniecības mašīnām
+kuļamās mašīnas
+rati
+zirgu
+
+System prompt:
+ You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

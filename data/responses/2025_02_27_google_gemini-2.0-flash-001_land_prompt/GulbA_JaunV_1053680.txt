@@ -1,0 +1,127 @@
+vilcienu
+vagonā
+Mitropas vagons
+ātrvilcienu
+vagons
+guļamvagonā
+vilcienu
+vagona
+automobili
+automobiļi
+automobili
+limuzīnu
+automobilis
+limuzīns
+automobili
+automobiļi
+mašīnu
+limuzīns
+mašīnu
+vagonu
+vagoni
+limuzīns
+lidmašīnā
+ekstrātelegrammas
+automobili
+kuģiem
+vāģiem
+auto
+šosejas
+velkamas dzelzceļa stigas
+nodibināties jaunai valstij
+uzsākt savas gaitas
+vilcienu
+ātrvilcienu
+tranzits
+kuģa trumā
+ešalonu
+lokomotīves
+dzelzceļu līnijām
+ledusvāģu
+vilciens
+automobili
+Tautas savienības automobilis
+auto
+lidmašīnā
+būtu kāds satiksmes līdzeklis
+automobili
+lidmašīnu
+automašīnu
+ešaloniem būtu
+pārsēdēties uz
+dzelzceļiem
+satiksmes komisāru
+satiksmes līzekļu
+dzelzceļiem
+kuģiem
+tramvaja
+vilcienā
+auto
+slēgtās kazarmās
+vagonu
+trolejbuss
+dzelzceļa ratiem
+vagoniem
+lidmašīnu
+aeroplanu
+vilcienu
+dzelzceļiem
+autoceļam
+automāšinām
+tramvajam
+lidmašīnai
+plakāti norādīja uz
+tramvajiem
+vilciena iekārtā
+auto ceļš
+lidmašīnas lidlauku
+trolejbuss
+dzelzceļa viadukts
+lidmašīnas
+aeroplānu
+auto šoseja
+kuģi
+tramvajam
+trolejbuss
+velosipēdiem
+auto
+tūristu autobusu
+smagiem dzelzceļa
+uzņēmumiem
+izcelšanās uz ielas
+iekšpusi
+vilciena iekārtu
+līdzīgo ērtumus
+pašgājēji
+ekskursanti
+dzelzceļiem
+kājām
+transports
+automobili
+kuģu
+auto stūrētājs
+kājs
+velosipēdu
+autoceļu
+vilcienu
+ceļa
+vilciena iekārtas
+ielu
+pārvadu
+kuģu būvētāji
+tilta galā
+dzelzceļa krustojumu
+gājējus
+tramvajiem
+pārvadu
+trolejbuss
+lidaparātam
+ūdensceļiem
+
+System prompt:
+ You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

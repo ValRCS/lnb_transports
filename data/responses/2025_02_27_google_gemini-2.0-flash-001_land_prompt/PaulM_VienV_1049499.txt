@@ -1,0 +1,59 @@
+auto
+mašīnas
+makšķeri
+bānīti
+vilcienam
+vilcienu
+vagonos
+vagona
+pasažieru
+vilcieniņš
+vagoniņus
+lokomotīve
+dzelzceļš
+auto
+autobusu
+automobili
+ratiem
+zirgiem
+lokomotīves
+vagona
+vilciens
+sliedēm
+bānīša
+vilcienu
+lokomotīve
+uzbērumā
+vilciens
+lokomotīve
+vagonos
+dzirkļainie
+tējmašīna
+rati
+dzelzceļa
+vilcienu
+vilciens
+automobili
+vilcienu
+stallis
+ratnīca
+mašīnas
+ratnīca
+auto
+vilcienu
+vēja motora
+mašīnas
+ratiem
+ratiņi
+vilcienam
+vilcienu
+ekseļus
+vilcienu
+
+System prompt:
+ You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 

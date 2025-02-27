@@ -1,0 +1,34 @@
+kanonādes
+lodes
+šauteņu resgaļi
+durkļi
+vezumos
+rati
+bruņotie auto
+nāves limuzini
+vieglus lauku lielgabalus
+auto
+divriteni
+vezumnieku rati
+rati
+divriteni
+auto
+jachta
+auto
+jachtas
+motorlaiva
+laivā
+vezumnieku
+taksometrī
+auto
+takša
+lidmašīnā
+akcija
+
+System prompt:
+ You are an expert on Latvian language and land transportation.  
+Extract a comprehensive list of all mentioned land transportation vehicles from the given texts.  
+Do not include any additional information — include only the land transportation terms.
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription.
+Show the results in a single list with each unique term on a new line.
+Latvian text follows: 
