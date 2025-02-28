@@ -1,0 +1,1241 @@
+term,term_freq,doc_freq
+laivas,1146,183
+kuģis,770,138
+kuģi,2492,127
+rati,2821,86
+laivu,590,78
+laivā,521,65
+tvaikonis,196,64
+vilciens,362,63
+kamanas,141,60
+laiva,944,50
+auto,1121,43
+kuģiem,198,43
+pajūgs,127,42
+kuģa,616,41
+ragavas,91,34
+tvaikoņi,76,32
+kuģu,248,30
+plosts,28,27
+jachta,304,24
+pajūgi,58,22
+ratiem,176,22
+motorlaiva,113,21
+laiviņa,50,21
+tramvajs,22,21
+laiviņā,52,21
+vezumi,162,20
+kamanās,87,20
+kuģus,60,20
+kuģī,55,20
+laivās,80,19
+lidmašīna,297,19
+plostu,142,19
+vezumam,20,19
+automobiļi,29,17
+plosti,81,17
+laivām,53,17
+automobilī,56,16
+vezuma,97,15
+lokomotīve,48,15
+ormanis,20,15
+tvaikoni,102,14
+automobilis,19,14
+vilcienu,59,13
+važonis,11,12
+liellaivas,33,12
+pajūgu,50,12
+kuģītis,7,11
+droška,14,11
+vāģi,64,11
+laiviņas,16,11
+velkonis,36,11
+automobiļa,16,10
+tvaikonītis,12,10
+kamanām,50,10
+vilcienā,44,10
+vezums,35,10
+mašīna,127,9
+tvaikoņa,15,9
+ratus,31,8
+tvaikoņiem,9,8
+jachtā,17,8
+tvaikonīši,7,8
+kuģos,17,8
+motorlaivas,12,8
+lidmašīnas,188,8
+kuģīti,21,8
+ores,92,8
+vāģis,18,8
+automobiļiem,15,8
+autobuss,9,7
+vagonā,19,7
+automobīlis,5,7
+kariete,27,7
+pajāgs,0,7
+aizjūgs,12,7
+ragavās,32,7
+tvaikoņu,21,7
+ratos,63,7
+barkas,19,6
+kuģim,48,6
+kuģīši,6,6
+važonī,9,6
+vagoni,17,6
+kuģiši,9,6
+zirgs,66,6
+limuzīns,14,6
+arkls,6,6
+jachtas,31,6
+lokomotīves,8,6
+gondola,7,5
+taksi,2,5
+pajūgā,5,5
+ratā,25,5
+zemūdenes,76,5
+pajāgi,0,5
+karietes,18,5
+plosta,31,5
+velkoņi,6,5
+lokomotive,18,5
+rato,35,5
+bēris,13,5
+tramvaji,6,5
+kupejā,10,5
+automobiļu,27,5
+kamanu,21,5
+laiviņu,28,5
+tvaikonī,13,5
+```,0,5
+burinieks,14,5
+vilcienam,15,5
+ormaņi,5,4
+lidmašīnā,56,4
+gondolā,9,4
+kuģinieku,16,4
+bruņotais vilciens,9,4
+kreiseri,58,4
+baržas,10,4
+velosipēds,1,4
+plostiem,4,4
+vagoniem,8,4
+zirgi,176,4
+linijdroška,6,4
+ratu,50,4
+kupeja,12,4
+zirģelis,6,4
+ormani,33,4
+kuteris,14,4
+galeras,23,4
+pajūgus,4,4
+pajugiem,0,4
+tvaikoniši,3,4
+motociklets,8,4
+važoni,14,4
+jātnieki,102,4
+kuļmašīna,10,4
+motocikls,9,4
+preču tvaikonis,4,4
+autobusu,8,4
+vilciena,20,4
+automobils,12,4
+ratoši,0,4
+vezumu,9,3
+lielaiva,0,3
+vezumos,4,3
+vezumnieki,37,3
+vezumiem,5,3
+vezumā,4,3
+laiviņās,4,3
+lidmašīnām,23,3
+lidmašīnu,126,3
+tramvajā,8,3
+gondolās,4,3
+kuģītī,6,3
+kuģīša,6,3
+goda rati,2,3
+kuģīšu,3,3
+traktors,6,3
+ratiņi,7,3
+fregates,33,3
+fregate,59,3
+laivam,15,3
+tvaikonīša,5,3
+tvaikonīšu,7,3
+jūru,28,3
+laivinieks,12,3
+vagonu,13,3
+kumeļu,42,3
+divjūgs,8,3
+kuģiti,4,3
+lidmašina,55,3
+plostus,3,3
+lielgabali,79,3
+burinieki,6,3
+pajā,0,3
+kuģinieki,9,3
+barža,4,3
+karakuģi,4,3
+lokomobile,10,3
+ormaņa rati,2,3
+kokasnieki,2,3
+kuģga,25,3
+mašīnu,24,3
+ātrvilcienā,3,3
+strūgas,29,3
+orē,40,3
+zirdziņš,9,3
+slitas,10,3
+mašina,13,3
+aeroplani,8,3
+aeroplans,4,3
+aeroplāns,6,3
+zvejnieku laivas,4,3
+ormanī,5,3
+mašīnas,8,3
+liellaivā,7,3
+motorlaivā,3,3
+motorlaivu,16,3
+kara kuģus,3,3
+šoneris,19,3
+briga,22,3
+ori,106,3
+* laivas,0,2
+jūrmalas,3,2
+laipu,11,2
+oras,5,2
+ešelons,2,2
+flote,5,2
+laipas,6,2
+laimā,0,2
+ešaloni,2,2
+slidas,0,2
+tvaikonim,3,2
+ore,55,2
+sirms,2,2
+ešalons,1,2
+zēģelniekiem,5,2
+eķipažā,2,2
+eķipaža,7,2
+ātrvilciens,2,2
+kuģu būvētavas,1,2
+tvaikonīti,6,2
+zēģeles,0,2
+hidroplāns,2,2
+zēģele,4,2
+kreiseris,4,2
+aeroplanā,5,2
+jachtām,1,2
+kumeļš,11,2
+pusrati,15,2
+vienkoči,3,2
+ekspresis,5,2
+tramvaju,6,2
+fregātes,11,2
+kuģniecības,2,2
+fregāte,18,2
+glābšanas laivas,2,2
+kuģīšiem,2,2
+satiksmes tvaikonītis,2,2
+ratnīcā,5,2
+* plosti,0,2
+transportkuģi,1,2
+korvete,4,2
+transportkuģis,0,2
+ķēve,15,2
+gondolu,3,2
+ērzeļa,6,2
+transportu,11,2
+trijjūgs,3,2
+ormaņu,3,2
+govis,94,2
+jātnieku,6,2
+galeoni,3,2
+kuļmašīnu,3,2
+torpedu laivas,10,2
+oris,5,2
+kuša,80,2
+jūras,59,2
+kuši,209,2
+fūrmanī,8,2
+fūrmanis,4,2
+fūrmani,6,2
+ragaviņām,2,2
+ātrvilcienu,5,2
+jūras laivas,3,2
+kučieris,14,2
+vienkocī,8,2
+aizjūgos,2,2
+automobiļos,3,2
+vērsis,8,2
+stīmeris,3,2
+cepelīns,1,2
+velosipedu,7,2
+dampis,2,2
+lokomotives,2,2
+zemūdene,81,2
+karietē,4,2
+autotaksis,3,2
+zemūdens laivas,8,2
+kaleše,0,2
+automobīļi,5,2
+ekipāža,16,2
+divjūgu,6,2
+preču kuģis,2,2
+kuģitis,2,2
+automobiļus,2,2
+vāģī,1,2
+velosipēdu,0,2
+vezu,25,2
+kara kuģi,3,2
+lielgabals,1,2
+bruņu kuģi,2,2
+burenieks,6,2
+liellaiva,14,2
+liellaivās,4,2
+jachtu,3,2
+vilcieni,9,2
+vilcienus,4,2
+vāģos,8,2
+bruņotais auto,3,2
+buru kuģi,3,2
+limuzins,2,2
+vāgons,0,2
+burulaivas,0,2
+kuģinieks,7,2
+kuģiniekiem,5,2
+važoņi,3,2
+automobīļa,1,2
+automobilim,4,2
+pajāgu,0,2
+kaŗa kuģu,3,2
+zirgu,89,2
+līķrati,5,2
+laiviņām,3,2
+atsperu rati,0,2
+laiviniekus,2,2
+kaŗa kuģi,3,2
+vagonos,8,2
+prāmis,3,2
+vagons,13,2
+jūrā,64,2
+laivinieki,7,2
+ecēšas,3,2
+prāmi,5,2
+tanki,0,2
+zemūdenslaiva,88,2
+zvejas laivas,1,2
+kuģitī,3,2
+ekipažā,3,2
+tanku kuģis,2,2
+līnijdroška,3,2
+kateri,2,2
+automašīna,11,2
+tamborrati,2,2
+važas,1,2
+rumaku,28,1
+sacīkšu jachta,0,1
+rīksī,0,1
+riteni,8,1
+rāmus,0,1
+rībeja,3,1
+rīta vilcienu,2,1
+riteņbraucēji,1,1
+rikša,0,1
+riteņi,11,1
+rezerves bataljona,2,1
+ratošiem,0,1
+ratošos,0,1
+ratošus,0,1
+ratīni,1,1
+redeļu ratos,0,1
+robežsargu laiva,1,1
+restorāna vagons,0,1
+redeļu rati,1,1
+razole,4,1
+rodersteris,0,1
+razoli,1,1
+rokas ragaviņas,1,1
+rats,3,1
+ratti,0,1
+raušošais vilciens,0,1
+ratí,0,1
+"""Ausekli""",0,1
+preču vagons,0,1
+ratoš,0,1
+pajūgiem,1,1
+pajugs,0,1
+pajugā,0,1
+pajāgus,0,1
+pajāgā,0,1
+pajāugi,0,1
+pajāšanos,1,1
+pajšūgs,0,1
+pajūga,1,1
+pajūgam,1,1
+palazdites,3,1
+pacere,0,1
+palīgkreiseri,11,1
+pasažierkuģis,0,1
+pasažiertvaikonītis,0,1
+pasažieru kuģītim,1,1
+pasažieru kuģītis,1,1
+pasažieru tvaikonis,0,1
+pasažieru vilciens,1,1
+pasta rati,1,1
+peld,2,1
+pajoogs,0,1
+ostas velkonīši,1,1
+ratoņus,0,1
+orkāni,0,1
+ogļu kuģiem,1,1
+ogļu vedēji,1,1
+ogļu vāģus,0,1
+okeāna tvaikonis,0,1
+okeāna tvaikonī,0,1
+olnīcas,2,1
+omiaktokos,1,1
+omnibuss,2,1
+orklam,0,1
+orkš,2,1
+ostas velkoni,1,1
+ormanim,1,1
+ormans,1,1
+ormaņa,2,1
+ormaņa kamanas,1,1
+ormaņa kamanās,1,1
+ormaņiem,1,1
+ormaņrati,3,1
+ormaņu rati,1,1
+oros,0,1
+piecmastu pilnrājnieks,1,1
+piena kannas,1,1
+pilnkuģgi,0,1
+ragas,0,1
+puskariete,0,1
+puskarīte,0,1
+puskaŗieti,4,1
+pārceltuves,3,1
+pārcēlejs tvaikonits,1,1
+pārjūgi,0,1
+pļaujammašīnai,1,1
+pļaujammašīnu,3,1
+pūrarati,1,1
+ragavam,2,1
+pilnrājnieks,1,1
+ragavu,2,1
+ragavām,0,1
+ragutiņas,16,1
+rata,6,1
+rateļus,4,1
+ratiņu,2,1
+ratiņus,3,1
+ratiņš,9,1
+ratojiem,0,1
+prāms,1,1
+prāmjiem,2,1
+prāmji,1,1
+prāmja,1,1
+pils,118,1
+pirogas,4,1
+platdubas,2,1
+plostiņi,2,1
+plostiņu,2,1
+plostiņš,1,1
+plostneekiem,1,1
+plostnieki,1,1
+plostojamas upes,1,1
+plostojuši,1,1
+plostā,1,1
+ponijiem,1,1
+pontontilts,0,1
+preču,10,1
+preču automobilī,1,1
+preču tvaikoni,2,1
+preču vagoni,0,1
+preču vedējs,1,1
+proms,1,1
+salnis,7,1
+trami,1,1
+salonvagons,0,1
+zemūdens tankus,0,1
+vilceju,1,1
+vilciena rati,1,1
+vilcienos,1,1
+vimpeļi,1,1
+vācu kara ratos,1,1
+vāgūzis,0,1
+vāģgos,1,1
+vāģiem,1,1
+vāģišiem,1,1
+vāģišos,1,1
+vāģoni,0,1
+vāģus,1,1
+vēl,68,1
+vēršuks,0,1
+vēselas rindas,1,1
+vēzums,0,1
+vēzumus,0,1
+welkonis,1,1
+zaldātu,7,1
+zalonvagons,1,1
+zalonvagonu,1,1
+zalonvagonā,1,1
+zalonvāgons,0,1
+zemnieku pajūgs,1,1
+zemūdenes modelis,0,1
+zemūdens kreiseris,1,1
+zemūdens kuģi,1,1
+zemūdens laivu,5,1
+zemūdens motori,1,1
+vienzirga pajūgs,0,1
+vienričs,0,1
+vienmastnieks,0,1
+velosipēdam,1,1
+vedamā,1,1
+velce,3,1
+velci,2,1
+velkoni,1,1
+velkonī,1,1
+velkonītis,1,1
+velkonīši,1,1
+velkonīšos,1,1
+velkoņa,1,1
+velkoņiem,1,1
+velkoņu,1,1
+velosipeds,2,1
+velosipēda,2,1
+velosipēdas,1,1
+vienmastnieka,1,1
+velosipēdi,1,1
+vezuami,0,1
+vezumai,0,1
+vezumais,0,1
+vezumijem,1,1
+vezumnieku rati,0,1
+vezuumi,0,1
+vienjūga rati,0,1
+vienjūgi,1,1
+vienjūgs,1,1
+vienkocis,2,1
+vienkočos,0,1
+vienmasta krastu braucēja,0,1
+zemūdens tanku,0,1
+zemūdenslaivas,3,1
+sanitarā transporta kulbas,0,1
+zemūdenslaivu,1,1
+čoliņu,2,1
+čoliņā,1,1
+ērzelis,6,1
+ētapvilcienu,0,1
+ķēvi,1,1
+šaika,1,1
+šalons,1,1
+šalu,0,1
+šchūnu,2,1
+škipers,1,1
+šlepera,1,1
+šoneri,1,1
+šoneriem,1,1
+šonerus,1,1
+štīmeri,1,1
+štīmeri „Skotland”,1,1
+štīmers,0,1
+šūpuļa,1,1
+важонī,0,1
+земūdens laivu,0,1
+куģiem,0,1
+куģis,0,1
+курі,0,1
+парохода,0,1
+„Krokodīls”,25,1
+„Regina“,3,1
+„Vaizivi”,1,1
+„Valzivs”,8,1
+„āžiem”,1,1
+čoliņa,3,1
+četrjūgā,5,1
+četrjūgs,1,1
+zvejlaivas,1,1
+zemūdenē,1,1
+zemūdeņu,1,1
+zeļļi,79,1
+ziemeļu ekspresis,1,1
+zirdziņi,4,1
+zirgelis,2,1
+zirgiem,3,1
+zvejas kuteris,1,1
+zvejas kuģga,0,1
+zvejas kuģi,1,1
+zvejas kuģis,0,1
+zvejas šoneriem,0,1
+zvejlaiva,4,1
+zvejlūtu osta,0,1
+čauliņas,1,1
+zvejnieku laiva,1,1
+zveķaini,0,1
+zārks,0,1
+zēģelkuģis,1,1
+zēģelkuģišiem,1,1
+zēģelnieka,1,1
+zēģelniekus,0,1
+zēģeļlaivu,1,1
+«Kurmis»,108,1
+«Kāpurs»,8,1
+āboliņu vedamie rati,0,1
+ātrskrējēji,2,1
+ātrās palīdzības auto,1,1
+veci nederīgi tvaikoņi,0,1
+važoņa rati,0,1
+važons,1,1
+vaļnis,0,1
+taksis,0,1
+taksometris,1,1
+taksometrs,1,1
+taksomotora,1,1
+taksomotori,0,1
+taksītim,1,1
+takši,1,1
+takšus,1,1
+tankkuģis,0,1
+tankā,0,1
+tarantāss,0,1
+tačka,1,1
+taļu,2,1
+tenders,0,1
+teļi,3,1
+tirdzniecības kuģiem,1,1
+tirdzniecības tvaikonis,0,1
+torpeda,86,1
+torpedu,1,1
+torpedu laivām,1,1
+traktori,0,1
+traleri,2,1
+tralleris,1,1
+ogļinieka,1,1
+trams,1,1
+tramvaja,9,1
+tramvaja vagons,0,1
+tramvajos,1,1
+tramvajvāģis,0,1
+taksim,1,1
+takisometrs,0,1
+sējmašīna,1,1
+sirmis,4,1
+sanitārais auto,1,1
+sanitārais transports,0,1
+sanitārkulba,2,1
+sanitārtransports,0,1
+sanitāru rati,1,1
+sanitārvilcienam,0,1
+sanitārvilciens,6,1
+sarkanais,7,1
+satiksmes līdzekļu,1,1
+satiksmes motorlaivu,0,1
+silē,3,1
+silītes,1,1
+simuzini,1,1
+slidās,0,1
+svešzemju tvaikoņiem,1,1
+smagie auto,0,1
+smago ormaņi,0,1
+smago ormaņu,1,1
+speciālvagonu,1,1
+speciālvilciens,1,1
+specvilciens,0,1
+stratosferas lidaparāti,0,1
+strūgu,20,1
+strūgās,5,1
+stīmeri,2,1
+stīmeru,1,1
+stīmerītis,1,1
+sudmalu rati,0,1
+transatlantiskās ostas,1,1
+transatlantiskās satiksmes milzenis,1,1
+transporta,11,1
+tīklu laiva,2,1
+tvaikonitī,1,1
+tvaikoniša,0,1
+tvaikonītī,2,1
+tvaikoņis,0,1
+tvaikoņos,1,1
+tvaikoņus,1,1
+tvaiku,3,1
+tvaikvedis,1,1
+tvaikvilcis,1,1
+tālajās kazarmās,1,1
+tālb,1,1
+tāļskrējēju karavānes,0,1
+tējmašīna,0,1
+tīklu soli,1,1
+tvaikonis „Skotland”,1,1
+uguns rati,2,1
+upju laivas,1,1
+uploks,0,1
+vagana,1,1
+vagona,1,1
+vagonam,0,1
+vagoneti,1,1
+vagoniņiem,1,1
+vagonus,1,1
+vagonītī,1,1
+vagoņi,1,1
+vaģi,0,1
+vaģoneti,0,1
+tvaikonitis,1,1
+tvaikonis „Malboro”,0,1
+transporta kuģiem,0,1
+trāleru,1,1
+transporta kuģis,1,1
+transporta rati,0,1
+transporta tvaikoņi,1,1
+transportkuģa,1,1
+transportkuģiem,0,1
+transportlaivas,1,1
+transportori,1,1
+transportskuģis,0,1
+trijjūgiem,1,1
+trijjūgā,2,1
+trijmastu kuģis,1,1
+trirēmām,1,1
+trāktora,1,1
+trījmastu kuģis,0,1
+tvaikonis „Iron Castle”,0,1
+trīsmastnieku,1,1
+trīsmastnieku burenieks,0,1
+trīsmastu burinieks,1,1
+trīsmastu kuģis,0,1
+tvaika barkase,3,1
+tvaika jachta,1,1
+tvaika katls,0,1
+tvaika kuļmašina,1,1
+tvaika kuļmašīnas,1,1
+tvaika mašīna,2,1
+tvaika āmurs,1,1
+tvaikoni „Skotland”,1,1
+tvaikonis „Gaita”,1,1
+ogļu kuģi,1,1
+liellaivu,5,1
+oceāņa tvaikonis,1,1
+cūkas,9,1
+darba rati,0,1
+darba ratos,3,1
+desantlaivas,1,1
+diližans,0,1
+diližanss,1,1
+diližansu,1,1
+dirižablis,1,1
+dirižansā,0,1
+divipajugi,1,1
+divjūga,0,1
+divjūgu kariete,1,1
+divjūgu ores,1,1
+divjūgu ormanis,1,1
+divjūgā,1,1
+divmastnieks,3,1
+divmastu burenieku,1,1
+divmastu malkas-jānis,0,1
+divritenis,2,1
+divriteņa,1,1
+divriteņi,0,1
+divriteņā,0,1
+divriči,1,1
+divričus,1,1
+divzirgu linijdroška,0,1
+divzirgu ore,1,1
+drednauta,2,1
+drednauti,0,1
+drednauts,1,1
+dreidnautam,0,1
+dampjiem,1,1
+cisas,6,1
+bruņu kugiem,1,1
+būria,0,1
+bruņu mīņu licejiem,0,1
+bruņu vilciens,1,1
+bruņuvilciens,2,1
+brīgas,1,1
+bugsieri,4,1
+buksiers,1,1
+bura kuģi,0,1
+burenieki,7,1
+burenieku,4,1
+bureniekā,1,1
+burienēm,0,1
+burinieku flotīles,1,1
+buru,3,1
+buru jachta,0,1
+buru laivas,1,1
+buru laiviņa,1,1
+buru laivu,1,1
+burulaiva,0,1
+burulaiviņā,1,1
+burulaivu,0,1
+burēniem,0,1
+buğiestvaikoniši,0,1
+bāku,6,1
+bāzes kuģu,1,1
+bēgļu vilciena,1,1
+bēra zirga,1,1
+bērais,0,1
+bēri,9,1
+bērītis,8,1
+dreijam,1,1
+dreimaņi,14,1
+drezina,1,1
+drigalka,1,1
+ešalonu,3,1
+ešeloni,1,1
+ešelonu,11,1
+faetonā,1,1
+federrati,1,1
+finikulars,1,1
+flotilēs,2,1
+flīti,1,1
+franču kreiserī,1,1
+fregatei,16,1
+fregatēm,4,1
+fregātei,1,1
+fregāti,6,1
+fregātu,0,1
+frēgate,1,1
+frīzu kuģus,1,1
+fūrmanim,3,1
+fūrmaņiem,3,1
+fūrmaņu rati,1,1
+gaisa kuģu,1,1
+gaisakuģis,0,1
+gaiskuģī,1,1
+galateja,7,1
+galeoniem,1,1
+galeons,1,1
+galeonu,2,1
+galera,6,1
+galeru,9,1
+galiote,4,1
+etapvagona,3,1
+eskadras,1,1
+elektrovāģis,1,1
+ekipažās,1,1
+droškam,1,1
+droškā,1,1
+dumo,4,1
+dvukolkas,0,1
+dzelzceļa tilts,0,1
+dzelzsasu rati,0,1
+dzelzsceļka vilciens,0,1
+dēļu lādītes,0,1
+dūņu smēlēju,1,1
+džonka,17,1
+džunka,1,1
+ekipaža,1,1
+ekipažas,2,1
+ekipāžas,7,1
+elektrotraktori,1,1
+ekipāžā,1,1
+ekspresi,7,1
+ekspresī,1,1
+eksprešu,2,1
+elektriskais gaisa vāģis,1,1
+elektriski gaisa pūķi,1,1
+elektriskie automobiļi,1,1
+elektriskie dzelzceļi,0,1
+elektriskie satiksmes līdzekļi,0,1
+elektrisku motoru dzīti satiksmes līdzekļi,0,1
+elektriskā lidmašina,0,1
+elektrokars,3,1
+elektrokaru,6,1
+bruņu kuģiem,4,1
+bruņu kreiserim,1,1
+galēras,1,1
+Augsburga kuģīti,1,1
+Brēmene,2,1
+Daugavpils vilcienu,1,1
+Džonkas,1,1
+Grāfs Cepelīns,1,1
+Kamans,1,1
+Krievijas plostus,1,1
+Laivā,1,1
+Liellaivas,1,1
+Lokomotīve,1,1
+MS,2,1
+NMGII,1,1
+S-cho stāstu,1,1
+Sarkanā krusta rati,1,1
+Skanuļi,37,1
+admirālkuģa,2,1
+aero,5,1
+aerodrednautu,2,1
+aeroplana,1,1
+aeroplanis,0,1
+aeroplanu,1,1
+aeroplanu motori,0,1
+aerostatu,2,1
+airu laivas,1,1
+aizjūga,1,1
+aizjūgam,1,1
+aizjūgi,1,1
+aizjūgus,2,1
+aizjūgā,2,1
+aiņi,2,1
+Bajars,5,1
+"Amerikas tvaikonis „Prince""",1,1
+bruņu kreiseri,1,1
+Agenskalna kuģīti,1,1
+"""Dzenis""",0,1
+"""Kalpa""",0,1
+"""Kalpam""",0,1
+"""Kalps""",0,1
+"""Kalpu""",0,1
+"""Krīva""",0,1
+"""Krīvam""",0,1
+"""Krīvs""",0,1
+"""Krīvu""",0,1
+"""Labrīt""",0,1
+"""Mariannas""",0,1
+"""Merkatora""",0,1
+"""Merkatoram""",0,1
+"""Merkators""",0,1
+"""Merkatoru""",0,1
+"""Neptuns""",0,1
+"""Pērkons""",0,1
+"""Reņģuciems""",0,1
+"""Svjatopolk""",0,1
+"""mazais bānīti""",0,1
+* baļķi,0,1
+* divrati,0,1
+* kuģi,0,1
+* pajūgi,0,1
+* pajūgu,0,1
+* spārnu ratu,0,1
+* vezumi,0,1
+* vilciens,0,1
+Admiraļa kuģis,1,1
+alus mucas,0,1
+apakšzemes kuģis,6,1
+apbruņoti kuģi,0,1
+arklam,1,1
+barkasi,2,1
+barkass,1,1
+barkasā,2,1
+barku,6,1
+barkā,4,1
+barkāša,0,1
+baržu,2,1
+baržām,2,1
+baļķu kuģus,0,1
+berbep,52,1
+bobs,4,1
+boķis,1,1
+braucam,4,1
+brauceji,2,1
+braucēji burenieki,1,1
+brig,2,1
+brigā,0,1
+bričkā,3,1
+bruņinieki,51,1
+bruņkuģis,0,1
+bruņotais automobilī,0,1
+bruņoti vilcienus,0,1
+bruņotie,1,1
+bruņotiem kreiseriem,2,1
+bruņoto automobiļiem,0,1
+bruņotā kreisera,1,1
+bruņu auto,2,1
+bruņu auto «Kurzemnieks»,1,1
+bruņu kreiseram,2,1
+barkase,2,1
+barkasa,0,1
+barka,7,1
+automašīnu,3,1
+armijas vezumnieku straumes,1,1
+artilerija,65,1
+artilērija,14,1
+auni,32,1
+auto ar sevīšķu mazu tvaika mašīnu,1,1
+auto-limuzīna,0,1
+autobusa,2,1
+autobusi,1,1
+autobusos,1,1
+autobusā,5,1
+autogazomotori,1,1
+autokārs,3,1
+automašīnas,0,1
+automobili,1,1
+bandžoļi,3,1
+automobiļam,1,1
+automobiļis,0,1
+automobīlī,1,1
+automobīļiem,1,1
+automobīļos,2,1
+autotakši,1,1
+avions,1,1
+bagar-kuģi,0,1
+bagar-laivai,1,1
+bagažas vilcienu,1,1
+balona,0,1
+balta jachta,0,1
+baltiņš,3,1
+galiotes,2,1
+galēru,1,1
+norveģu tvaikonis,1,1
+lajva,1,1
+lauka kukņas,1,1
+lazaretēm,0,1
+ledlauzis,4,1
+ledlauži,0,1
+ledus gabals,3,1
+leduslauža,1,1
+lichačs,0,1
+lidaparātu,0,1
+lidmašinam,1,1
+lidmašinas,76,1
+lidmašinu,41,1
+lidmašīnai,2,1
+lidomašīna,0,1
+lidonis,1,1
+liel laivas,0,1
+"liela, plaša stepe",1,1
+lielalivas,0,1
+lielgabala,2,1
+lielgaballaiva,2,1
+lielgabalu laivu,0,1
+lielgabalus,6,1
+"""Dzeni""",0,1
+lielļaivas,0,1
+lietiņas,0,1
+limuzīna,0,1
+limuzīni,1,1
+limuzīnā,2,1
+linu kuģa,1,1
+linu vezumi,1,1
+lataviešu kaŗāvji,2,1
+lajpa,0,1
+kuģši,12,1
+laivāam,1,1
+kuļammašīnas,1,1
+kuļbā,0,1
+kuļbās,0,1
+kuļju,8,1
+kuļmašīnas,1,1
+kuņem,8,1
+kuŗi,8,1
+kušgiem,0,1
+kušu,27,1
+kušģis,0,1
+kuššī,0,1
+kārbā,13,1
+labības vedējs,0,1
+labības vezumi,2,1
+laikraksta auto,0,1
+laimva,0,1
+laimē,3,1
+laimīgā kārtā,1,1
+laiv,14,1
+laiveles,1,1
+laivelē,1,1
+laivenieku,1,1
+laivenieku rīdze,1,1
+laivineekiem,1,1
+laivinieka,2,1
+laiviniekam,1,1
+laiviniekiem,1,1
+laivinieku rīdze,0,1
+laivinis,0,1
+lodenes,0,1
+lodziņš,1,1
+lokombīle,0,1
+lokomobiles,5,1
+motor.kuģi,1,1
+motorbureniekos,1,1
+motorburenieks,0,1
+motorburinieki,1,1
+motori,2,1
+motorjachtā,1,1
+motorkuteris,1,1
+motorlaiva „Kaija”,2,1
+motorlaiviņas,0,1
+motorlaivām,0,1
+motorrats,8,1
+motorratu,1,1
+motorslēpju,2,1
+motoršļirce,1,1
+municijas rati,2,1
+murdi,5,1
+mākoņkuģis,6,1
+mēslu rateļus,1,1
+mīnu kuģi,8,1
+mīnu kuģiem,3,1
+mīnu kuģus,3,1
+mīnu metēju,1,1
+mīnu trāleri,1,1
+mūlis,9,1
+naftas cisternas,1,1
+nedēļnieki,3,1
+nedēļniekiem,1,1
+nedēļnieks,3,1
+nedēļnieku,1,1
+motociklā,4,1
+motociklu,1,1
+motocikls ar blakusvāģi,1,1
+līnijrati,2,1
+lokomobili,1,1
+lokomobīle,2,1
+lokotīves,0,1
+lokotīvju kapenes,0,1
+lopu kuģi,1,1
+lopu vagoni,0,1
+loču kuteris,0,1
+loču kuģīši,1,1
+ložberu,4,1
+lunorpāis,1,1
+lāde,2,1
+lāviņa,4,1
+līnijkuģis,5,1
+līnijratos,5,1
+motociklists,1,1
+līča,1,1
+līķa rati,0,1
+malkas-jāņa,1,1
+mantas vezums,1,1
+masilīči,1,1
+mašinu,7,1
+medību rati,0,1
+melnis,15,1
+meženieku rati,1,1
+minu kuģi,2,1
+molors,1,1
+motocikleti,1,1
+motocikletā,0,1
+kuģšu,0,1
+kuģīšus,0,1
+gangvejs,1,1
+jūras satiksmes,0,1
+jūrmala,0,1
+jūrmalas vilcieni,1,1
+jūrmalas vilcienu,1,1
+jūrmalu,1,1
+jūrmalā,3,1
+jūrskolas,1,1
+jūŗas,45,1
+jūŗas jachta,1,1
+jūŗmalu,4,1
+jūŗnieki,1,1
+kaleša,0,1
+kalošas,2,1
+kamanam,1,1
+kamaniņu,1,1
+kamanu ceļš,2,1
+kameļi,8,1
+kameļu,0,1
+kameņi,0,1
+kara kuģī,1,1
+kara laivas,4,1
+kara pajūgi,0,1
+kara pajūgs,0,1
+kara rati,0,1
+kara traleri,1,1
+karakuģu,1,1
+karakuģus,1,1
+karavānas,1,1
+karite,2,1
+kaujas kuģi,2,1
+jūras velkonis,1,1
+jūras maisus,1,1
+kuģīšos,1,1
+jūras kuģi,1,1
+gaķņi,0,1
+gaŗoceļagabaluni,0,1
+gliemezis,0,1
+gliemežu laivas,0,1
+glābjamlaivas,1,1
+glābšanas laiva,1,1
+godi rati,0,1
+gondoljers,0,1
+gondoljēru,1,1
+groža,1,1
+guļamvagons,0,1
+gāfelšonera,0,1
+hidroaeroplani,1,1
+hidroaeroplanu,2,1
+hidroaeroplānu,1,1
+hidroplani,2,1
+hidroplans,2,1
+hidroplāni,0,1
+hidroplānu,1,1
+ilkse,3,1
+iznīcinātāji,19,1
+jachtiņa,1,1
+jachtās,0,1
+jaktsrati,1,1
+janča,2,1
+jātnieka,1,1
+jēri,2,1
+jūras ekspresī,0,1
+jūras jachta,0,1
+kaujas kuģu,1,1
+kaļakuģi,1,1
+kaŗa floti,1,1
+kaŗa kuģiem,3,1
+kučieri,111,1
+kučieriem,1,1
+kučiers,3,1
+kuģa klāja,1,1
+kuģa klāju,1,1
+kuģa sāniem,1,1
+kuģcus,1,1
+kuģeli,1,1
+kuģelis,0,1
+kuģga klāju,1,1
+kuģgu,1,1
+kuģis „Gaita”,0,1
+kuģis „Iron Castle”,0,1
+kuģis „Saratovs”,0,1
+kuģit,1,1
+kuģits,1,1
+kuģiša,5,1
+kuģišu,1,1
+kuģneecibas,1,1
+kuģneeku,1,1
+kuģniecibas,2,1
+kuģniecības līnijas,1,1
+kuģniek,1,1
+kuģotājs,6,1
+kuģu masti,1,1
+kuģģi,0,1
+kuģģitis,0,1
+kuģģiši,0,1
+kuģītim,1,1
+kuvērim,1,1
+kustību kuģis,0,1
+kustoņi,1,1
+krapenieša rati,0,1
+kaŗa kuģus,1,1
+kaŗakuģiem,1,1
+kaŗakuģis,1,1
+kaŗakuģu,1,1
+kaŗakuģus,1,1
+kaŗiete,79,1
+kleperi,1,1
+kogas,2,1
+kogām,1,1
+kokasniekos,2,1
+komeļš,0,1
+korvetes,1,1
+kraiseros,0,1
+krasta braucējs,1,1
+kurvjdroškā,2,1
+kravas tvaikonis,0,1
+kreiseri „Rauna”,0,1
+kreiseriem,5,1
+kreiserī,1,1
+krievu floti,1,1
+kuga,20,1
+kugiši,1,1
+kulbas,3,1
+kumeļi,2,1
+kumeļā,0,1
+kumēlis,0,1
+kupejas,2,1
+kuražiņā,3,1
+„Šķirme”,3,1
