@@ -1,0 +1,86 @@
+ragavu rinda
+jātnieks
+ziņnesis
+jātnieks
+jātnieki
+zirgs
+jātnieku pulks
+jātnieki
+jātnieki
+jātnieku pulks
+jātnieki
+jātnieku pulks
+jātnieku pulks
+jātnieku pulks
+jātnieki
+jātnieku pulks
+jātnieki
+ragavas
+kamanas
+jātnieki
+jātnieku pulki
+jātnieki
+jātnieku pulks
+huzāri
+huzāri
+jātnieku
+jātnieki
+jātnieki
+jātnieki
+jātnieki
+jātnieki
+jātnieku
+jātnieku
+jātnieku
+jātnieku
+ragavas
+bruņoti jātnieki
+jātnieki
+jātnieku pulciņš
+jātnieki
+jātnieki
+jātnieku
+jātnieku
+jātnieki
+jātnieku
+jātnieki
+jātnieks
+jātnieks
+jātnieks
+jātnieki
+jātnieki
+jātnieks
+jātnieks
+jātnieki
+jātnieks
+jātnieku
+jātnieki
+jātnieks
+jātnieku pulciņš
+jātnieki
+jātnieks
+jātnieks
+jātnieki
+jātnieku
+jātnieku
+jātnieku
+jātnieki
+jātnieks
+jātnieki
+jātnieks
+jātnieks
+jātnieks
+jātnieki
+jātnieki
+jātnieku
+jātnieku
+jātnieki
+
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

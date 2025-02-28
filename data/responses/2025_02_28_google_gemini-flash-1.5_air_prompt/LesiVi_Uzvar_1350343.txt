@@ -1,0 +1,47 @@
+vieglajos ratos
+ratu kulbā
+Sirmja vilktajos ratos
+vieglajos ratos
+lielajos ratos
+Sirmja vilkti
+ratu rindas galā
+ratu kulbas priekšā
+ratu kulbā
+ratu kulbas malas
+Sirmja vilktajos ratos
+sēru ratu
+vieglajos ratos
+ratiem pāri
+ratiem piesieto
+ratiem
+ratu riteņi
+ratiem
+ratu kulbā
+ratu rībēšana
+ratu kulbā
+ratu riteņi
+ratu rībēšana
+ratu
+pajāgiem
+pajūgiem
+pajūgu rindām
+ratiem
+ratu
+ratu
+vieglajiem ratos
+vieglajos ratos
+kamanu ceļš
+Ziemsvētku kamanas
+kamanās
+kamanu
+kamanām
+vieglajos ratos
+
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

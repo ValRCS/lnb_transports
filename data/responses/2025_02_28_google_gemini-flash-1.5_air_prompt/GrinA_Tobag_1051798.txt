@@ -1,0 +1,62 @@
+Armijas spiestuve
+kuģa «Walfisch»
+kuģiem
+fregātei
+kuģu
+fregātes
+kuģi
+fregate
+kuģi
+brigā
+fregate
+kuģiem
+briga
+fregātei
+fregāti
+fregātes
+fregate
+fregāti
+fregāte
+kuģa «Krokodils»
+korvete
+kuģi
+fregāte
+kuģis «Walfisch»
+fregāte
+laivās
+laivā
+laivās
+laivā
+laivas
+laivā
+laivās
+laivās
+laivā
+laivas
+laivu
+laivas
+laivas
+laivās
+laivā
+laivu
+laivas
+laivās
+laivā
+laivās
+laivā
+laivu
+laivas
+laivas
+laivas
+laivā
+laivas
+laivās
+laivās
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

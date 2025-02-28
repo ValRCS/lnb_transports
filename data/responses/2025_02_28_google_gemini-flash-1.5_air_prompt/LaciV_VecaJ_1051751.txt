@@ -1,0 +1,65 @@
+bureniekiem
+tvaikoņiem
+tvaikoņiem
+trīsmastnieku
+divmastu burenieku
+bureniekiem
+trīsmastu burenieku
+tvaikoņiem
+motorlaivu
+motorlaiva
+tvaikoņiem
+tvaikoni
+motorlaivu
+zemūdenēm
+tvaikoņiem
+burenieki
+burenieku
+tvaikoņiem
+barkas
+tvaikoņiem
+barkas
+tvaikoni
+aeroplāni
+lidmašīnu
+lidmašīnas
+tvaikoni
+ledlaužiem
+motorlaiva
+tvaikoņiem
+motorlaiva
+motorbureniekos
+lidoja
+cepelīns
+motorlaivu
+zemūdenei
+zemūdenei
+zemūdenēm
+motorlaiva
+aeroplāni
+zemūdenes
+lidmašīnas
+tvaikoni
+zemūdenes
+zemūdenes
+tvaikoni
+zemūdenes
+automobiļiem
+aeroplāni
+lidmašīnu
+lidoja
+cepelīnu
+automobiļi
+aeroplāni
+lidmašīnas
+tvaikoni
+ledlaužiem
+automobiļiem
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

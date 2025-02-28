@@ -1,0 +1,73 @@
+kuģis
+tvaikonis
+kuģu
+tvaikoņi
+tanku kuģis
+tvaikoņiem
+kuģim
+loča kuģītis
+tvaikoņiem
+tvaikoņi
+tvaikonīši
+tvaikonīši
+tvaikoņi
+tvaikonīši
+tvaikoņi
+līnijniekiem
+līnijniekiem
+lopu kuģi
+motorburinieki
+nedēļnieki
+tvaikoņi
+velkoņi
+tvaikonis
+tanku kuģis
+tvaikoņi
+tvaikonīši
+transportu
+kuģu
+burinieka
+kuģis
+burinieks
+transportu
+kuģis
+buriniekiem
+kuģis
+līnijniekiem
+tvaikonis
+tvaikoņi
+barkas
+burinieks
+barkas
+beļģu kuģa
+kuģa
+kuģi
+kuģi
+kuģis
+preču kuģis
+ogļu
+angļu kuģa
+kuģiem
+kuģi
+kuģu
+kuģis
+transportu
+kuģis
+preču kuģis
+ogļu
+kuģi
+nedēļnieku
+kuģi
+nedēļniekiem
+tvaikonis
+tvaikoni
+kuģis
+preču kuģis
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

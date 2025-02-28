@@ -1,0 +1,76 @@
+kamanas
+kamanām
+pajūgi
+pajūgus
+ragavas
+ragavās
+melniš
+kamanās
+kamanu
+ātrā skrējienā
+kamanas
+pajūgs
+pajūgiem
+kamanām
+kamanās
+aiz muguras
+kamanās
+kamanas
+kamanu
+kamanās
+lidēja pa pusgaisu
+kamanas
+kamanām
+kamanās
+kamanu
+kamanas
+kamanām
+kamanās
+kamanām
+kamanās
+kamanas
+kamanās
+kamanu
+kamanas
+kamanās
+kamanu
+kamanas
+kamanām
+kamanās
+kamanās
+kamanas
+pajūga
+pajūgā
+pajūga
+pajūgos
+pajūgi
+pajūgus
+kamanās
+kamanas
+kamanās
+kamanas
+kamanas
+kamanās
+kamanās
+kamanās
+kamanās
+kamanās
+kamanās
+kamanām
+kamanas
+kamanām
+kamanās
+kamanās
+ragavas
+kamanas
+kamanās
+kamanu
+kamanās
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

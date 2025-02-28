@@ -1,0 +1,215 @@
+lielgaballaiva „Korejec”
+bruņu kreiseram „Vaŗagam”
+lielgabali
+lielgabalu
+lielgabalu
+lielgabalu
+lielgabalu
+torpedu laivas
+torpedu laivu
+torpedu laivas
+torpedu laivām
+torpedu laivas
+bruņu kuģiem „Cezareviča”
+„Retvizana”
+kreisera „Palada”
+torpedu laivas
+bruņu kuģiem
+kreiseri
+bruņu kuģiem
+bruņu kuģi „Petropavlovsk”
+„Sevastopoļ”
+„Poltava”
+„Peresvet”
+„Pobeda”
+kreiseri „Askold”
+„Diana”
+„Bajan”
+kreiseri „Bojarin”
+„Novik”
+bruņu kuģgi „Cesarevitž”
+„Retvizan”
+kreisers „Pallada”
+transporta kuģis „Angora”
+torpedu laivas „Vņimateļnij”
+„Vlastnij”
+„Bojevoi”
+„Bezstrašnij”
+„Vnušiteļnij”
+„Vinosļivij”
+„Grozovoi”
+„Bazjäštšij”
+„Rešitelnij”
+„Silnij”
+„Stereguščij”
+„Storoževoi”
+„Smielij”
+„Serditij”
+bruņu kuģis „Poltava”
+kreiseri „Diana”
+„Askold”
+„Novik”
+bruņu kuģi „Čiroze”
+„Kasagi”
+„Takasgo”
+„Tošino”
+flagu kuģis „Mikado”
+liniju kuģi „Azaši”
+„Fudži”
+„Žikižima”
+„Ēatsuse”
+kuģi „Kvatžima”
+„Tabuna”
+bruņu kuga „Idzumo”
+bruņu kuģi „Jakums”
+„Azama”
+„Jvate”
+bruņu kuģiem
+kreiseriem
+torpedu laivām
+bruņu kuģi „Cesarevitž”
+„Retvizan”
+kreisers „Pallada”
+bruņu kuģiem
+bruņu kuģi
+kreiseriem
+lielgabalu
+torpedu laivu
+lielgabalu
+mīnu kuģiem
+torpedu laivas
+torpedu laivas
+torpedu laivas
+bruņu mīņu
+licejiem
+torpedu laivas
+torpedu laivu
+torpedu laivas
+torpedu laivu
+lielgabali
+lielgabalu
+torpedu laivas
+torpedu laivas
+bruņu kuģiem
+kreisera „Palada”
+kreiseri
+bruņu kuģiem
+torpedu laivas
+torpedu laivas
+torpedu laivas
+bruņu kugiem
+kreiseriem
+bruņu kuģiem
+bruņu kugiem
+kreiseriem
+torpedu laivām
+bruņu kreiseram „Vaŗagam”
+lielgabalu laivu „Korejecu”
+kreiseriem „Asama”
+„Naniva” „Takačimo”
+„Čioda”
+„Akažai”
+„Mikasa”
+torpedu laivām
+transportā
+kuģiem
+bruņu kreisera „Vaŗaga”
+Amerikaņu „Viksburg”
+Angļu „Talbot”
+Francužu „Paskal”
+Italiešu „Elba”
+Angļu kuģa „Talbot”
+bruņotā kreisera „Vaŗaga”
+Amerikaņu kuģa „Biksburg”
+krievu kuģi
+„Vaŗags”
+„Korejecs”
+Japaņu
+kaŗa kuģiem
+torpedu laivām
+bruņu kreisera „Vaŗaga”
+Japaņu
+kaŗa kugu
+kreiseri „Vaŗags”
+torpedu laivu
+kreiseri
+bruņu kaujas kuģiem
+Japaņu
+kaŗa kugiem
+Japaņu
+kaŗa kuģiem
+mīnu kuģiem
+bruņu kreiseri „Vaŗagam”
+lielgaballaivai „Korejecam”
+mīnu kuģus
+mīnu kuģi „Strašnij”
+„Smelij”
+mīnu kuģiem
+Japaņu
+torpedu laivām
+kreiseriem
+torpedas
+mīnu kuģus
+mīnu kuģi „Strašniju”
+mīnu kuģiem
+mīnu kuģi „Strašniju”
+mīnu kuģiem
+mīnu kuģiem
+mīnu kuģim
+mīnu kuģiem
+mīnu kuģi „Strašniju”
+mīnu kuģiem
+„Strašnijs”
+„Bajans”
+Japaņu mīnu kuģiem
+„Smelijs”
+Japaņu mīnu kuģus
+Japaņu kugi
+„Strašniju”
+„Bajans”
+Japaņu mīnu kuģiem
+„Bajans”
+Japaņu kreiseriem
+„Bajans”
+mūsu mīnu kuģi
+bruņu kuģis „Petropavlovsk”
+„Bajans”
+„Petropavlovsks”
+Japaņu kuģi
+„Petropavlovsks”
+„Petropavlovska”
+„Petropavlovska”
+„Petropavlovska”
+„Petropavlovsks”
+„Petropavlovska”
+„Petropavlovska”
+„Petropavlovska”
+„Petropavlovska”
+glābšanas laivas
+„Petropavlovska”
+„Petropavlovsk”
+„Peresvet”
+„Pobeda”
+„Novik”
+„Poltava”
+„Sevastopoļ”
+„Diana”
+„Askoļd”
+mīnu kuģi
+„Petropavlovska”
+tvaikonis
+tvaikonis
+laivas (Džonkas)
+laivas
+kaŗa kuģis
+kaŗa kuģi
+laivas (Sampana)
+laivas
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

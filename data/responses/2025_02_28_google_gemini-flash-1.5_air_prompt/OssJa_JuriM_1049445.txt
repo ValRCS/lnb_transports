@@ -1,0 +1,143 @@
+jātnieku nodaļa
+kara pulki
+kara pulkus
+kara pulki
+strūgas
+laivas
+laivu
+laivas
+laivu
+liellaivas
+liellaivas
+liellaivas
+liellaivas
+liellaivas
+liellaivas
+liellaivas
+strūgas
+strūgas
+strūgas
+strūgas
+liellaivas
+liellaivas
+laivas
+laivas
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+laivas
+strūgas
+strūgas
+laivas
+liellaiva
+liellaivas
+liellaivas
+laivas
+laivas
+laivas
+laivas
+strūgas
+strūgas
+strūgas
+strūgu
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+strūgas
+laivas
+laivas
+laivas
+laivas
+jātnieku pulks
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku grupu
+jātnieku pulks
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku patruļas
+jātnieku patrulās
+jātnieku patrulās
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku grupu
+jātnieku pulks
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļas
+jātnieku nodaļu
+jātnieku nodaļa
+jātnieku pulks
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku eskadroni
+jātnieku eskadrons
+jātnieku nodaļu
+jātnieku nodaļa
+jātnieku eskadroni
+jātnieku nodaļas
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļu
+jātnieku patruļas
+jātnieku patruļas
+jātnieku eskadrons
+jātnieku nodaļa
+jātnieku grupu
+jātnieku pulku
+jātnieku nodaļu
+jātnieku nodaļa
+jātnieku nodaļu
+jātnieku nodaļu
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku nodaļa
+jātnieku patruļas
+jātnieku nodaļa
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

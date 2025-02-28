@@ -1,0 +1,39 @@
+lidmašīnas
+kuģis
+laivas
+tvaikonīši
+velkonis
+plosts
+kuģītis
+motociklets ar blakusvāģi
+lidmašīnas
+bruņotais vilciens
+bruņotie automobiļi
+lidmašīnas
+lielgabali
+falkonetes
+mīnmetēji
+lidmašīnas
+lielgabali
+šrapneļi
+mīnas
+mīnmetēji
+lielgabali
+lokomotīve
+bruņotais vilciens
+kara kuģi: Dragon, Abdiel, Vindzor un Vanguisher
+kara kuģi: Lastin, Garnier, Marne un Aisne
+lielgabali
+šrapneļi
+mīnas
+lielgabali
+mīnmetēji
+bruņotais vilciens
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 

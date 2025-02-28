@@ -1,0 +1,45 @@
+kuģi
+autobuss
+vilciens
+automašīna
+tramvajs
+kuģis
+autobuss
+ātrvilciens
+motorlaiviņas
+autobuss
+kuģis
+ātrvilciens
+elektriskie vagoni
+ātrvilciens
+tramvajs
+tramvajs
+kuģi
+automašīna
+vilciens
+ēzelis
+zirgs
+ēzelis
+ēzelis
+ēzelis
+ēzelis
+zirgs
+ēzelis
+ēzelis
+ēzeļis
+ēzelis
+ēzelis
+zirgs
+ēzelis
+ēzelis
+tramvajs
+vilciens
+ormanis
+
+System prompt:
+ You are an expert on Latvian language and air transportation and aviation terminology.   
+Extract a comprehensive list of all mentioned air transportation vehicles from the given text.   
+Do not include any additional information — include only the air transportation terms. 
+List just the terms in Latvian, exactly as they appear in the text, preserving their original spelling and transcription. 
+Show the results in a single list with each unique term on a new line. 
+Latvian text follows: 
