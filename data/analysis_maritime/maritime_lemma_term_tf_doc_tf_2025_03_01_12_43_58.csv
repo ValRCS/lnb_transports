@@ -1,0 +1,207 @@
+lemma,terms,term_freq,doc_freq
+laiv,"['laiv', 'laivā', 'laiva', 'laivu', 'laivās', 'laivām', 'laimva', 'laivas', 'laivam']",3364,418
+laiva,"['laiva', 'laimva', 'laivas', 'laivam', 'laiv', 'laivāam', 'laiviņa', 'laivā', 'laivu', 'lajva']",3283,405
+kuģis,"['kuģis', 'kuģits', 'kušģis', 'kuģi', 'kuģelis', 'kuģītis', 'kuģitis', 'kuģši', 'kuģģi', 'kuģim', 'kuģit', 'kuģos', 'kuģus']",3410,318
+laiviņa,"['laiviņa', 'laiviņas', 'laiviņā', 'laiviņu', 'laiva', 'laiviņās', 'laiviņām', 'laimva', 'lāviņa', 'laivas', 'laivam']",2262,301
+kuģa,"['kuģa', 'kuģga', 'kuģiša', 'kuģīša', 'kuģu', 'kuģī', 'kuģi', 'kuša', 'kuga']",3547,228
+kuģitis,"['kuģitis', 'kuģģitis', 'kuģits', 'kuģiti', 'kuģītis', 'kuģis', 'kuģit', 'kuģiši', 'kušģis', 'kuģīti', 'kuģitī', 'kuģinieks']",825,176
+kuģītis,"['kuģītis', 'kuģīti', 'kuģītim', 'kuģitis', 'kuģis', 'kuģģitis', 'kuģits', 'kušģis', 'kuģīši', 'kuģītī', 'kuģiti']",818,175
+kuši,"['kuši', 'kuģši', 'kugiši', 'kuģiši', 'kušģis', 'kuģīši', 'kuri', 'kuģi', 'kuša', 'kušu']",2844,148
+tvaikonis,"['tvaikonis', 'tvaikoni', 'tvaikonītis', 'tvaikonitis', 'tvaikoņis', 'tvaikonim', 'tvaikoniši', 'tvaikonīti', 'tvaikoniša', 'tvaikonitī', 'tvaikonīši', 'tvaikonī', 'tvaikoņi', 'tvaikoņus', 'tvaikoņos']",422,147
+kuģelis,"['kuģelis', 'kuģeli', 'kuģis', 'kuģits', 'kušģis']",772,142
+kuŗi,"['kuri', 'kuģi', 'kuši']",2709,130
+rats,"['rats', 'ratus', 'ratos', 'rat', 'rata', 'rati', 'ratā', 'rato', 'ratu']",3034,118
+tvaikonītis,"['tvaikonītis', 'tvaikonīti', 'tvaikonitis', 'tvaikonis', 'tvaikonīši', 'tvaikonītī', 'tvaikoņis', 'tvaikonim', 'tvaikoniši', 'tvaikonīša', 'tvaikoniša', 'tvaikonitī', 'tvaikonīšu']",243,101
+vilciens,"['vilciens', 'vilcienus', 'vilcienos', 'vilcieni', 'vilciena', 'vilcienu', 'vilcienā', 'vilcienam']",514,100
+pajūgs,"['pajūgs', 'pajūgus', 'pajšūgs', 'pajūgi', 'pajūgā', 'pajūgu', 'pajugs', 'pajūga', 'pajāgs', 'pajāgus', 'pajūgam', 'pajoogs']",246,98
+kamans,"['kamans', 'kamanās', 'kamanas', 'kamanu', 'kamanām', 'kamanam']",301,97
+tvaikonitis,"['tvaikonitis', 'tvaikonītis', 'tvaikonis', 'tvaikoniši', 'tvaikonīti', 'tvaikonitī', 'tvaikoņis', 'tvaikonim', 'tvaikoniša', 'tvaikonīši', 'tvaikonītī']",231,95
+automobilis,"['automobilis', 'automobils', 'automobili', 'automobilim', 'automobīlis', 'automobiļis', 'automobiļi', 'automobilī', 'automobiļos', 'automobiļus', 'automobiļiem', 'automobīlī', 'automobīļi', 'automobiļa', 'automobiļu']",195,92
+ratiņš,"['ratiņš', 'ratiņi', 'ratiņu', 'rati', 'ratiņus']",2842,92
+automobīlis,"['automobīlis', 'automobilis', 'automobils', 'automobili', 'automobīlī', 'automobīļi', 'automobilim', 'automobiļos', 'automobiļus', 'automobiļis', 'automobīļos', 'automobīļiem', 'automobiļi', 'automobiļa', 'automobiļu', 'automobīļa', 'automobilī']",184,88
+kamanas,"['kamanas', 'kamans', 'kamanās', 'kamanam', 'kamanu', 'karavānas']",252,88
+automobils,"['automobils', 'automobilis', 'automobili', 'automobilī', 'automobilim', 'automobīlis', 'automobiļos', 'automobiļus', 'automobiļis', 'automobīlī', 'automobiļi', 'automobīļi', 'automobiļa', 'automobiļu', 'automobiļam', 'automobīļos']",183,86
+vezums,"['vezums', 'vezumos', 'vezumais', 'vezumā', 'vezumi', 'vēzums', 'vezumu', 'vezuma', 'vezu', 'vezuami', 'vezumai', 'vēzumus', 'vezumam', 'vezuumi']",356,81
+plosts,"['plosts', 'plostus', 'plosta', 'plosti', 'plostā', 'plostu']",286,72
+kuša,"['kuša', 'kuģiša', 'kuģīša', 'kuši', 'kuga', 'kušu', 'kuģa']",963,51
+kuga,"['kuga', 'kuģga', 'kuša', 'kuģa']",741,47
+kuģga,"['kuģga', 'kuga', 'kuģa', 'kuģgu']",662,46
+lidmašīna,"['lidmašīna', 'lidomašīna', 'lidmašīnas', 'lidmašīnai', 'lidmašina', 'lidmašīnu', 'lidmašīnā', 'lidmašinam', 'lidmašīnām', 'lidmašinas', 'lidmašinu']",865,45
+ragavas,"['ragavas', 'ragavam', 'ragavās', 'ragas', 'ragavu']",127,44
+jachta,"['jachta', 'jachtas', 'jachtiņa', 'jachtu', 'jachtā', 'jachtām', 'jachtās']",357,44
+auto,['auto'],1121,43
+lidmašina,"['lidmašina', 'lidmašinam', 'lidmašinas', 'lidmašīna', 'lidmašinu', 'lidomašīna', 'lidmašīnas', 'lidmašīnai', 'lidmašīnu', 'lidmašīnā']",842,42
+vagons,"['vagons', 'vagonos', 'vagonus', 'vagona', 'vagonu', 'vāgons', 'vagoni', 'vagonā', 'važons', 'vagonam', 'važonis']",84,38
+motorlaiva,"['motorlaiva', 'motorlaivas', 'motorlaivu', 'motorlaivā', 'motorlaivām']",144,36
+važonis,"['važonis', 'važoni', 'važons', 'vagons', 'važoņi', 'važonī', 'vagoni', 'vaļnis']",68,34
+tramvajs,"['tramvajs', 'tramvajos', 'tramvajā', 'tramvaji', 'tramvaja', 'tramvaju']",52,33
+lokomotive,"['lokomotive', 'lokomotives', 'lokomotīve', 'lokomotīves', 'lokomobile', 'lokomobiles']",92,33
+lokomotīve,"['lokomotīve', 'lokomotīves', 'lokomotive', 'lokomotives', 'lokotīves', 'lokomobīle']",79,31
+lokomobīle,"['lokomobīle', 'lokombīle', 'lokomobile', 'lokomobiles', 'lokomotīve', 'lokomobili', 'lokomotīves']",75,29
+ormanis,"['ormanis', 'ormans', 'ormani', 'ormanim', 'ormaņi', 'ormanī']",65,28
+liellaiva,"['liellaiva', 'liellaivas', 'lielaiva', 'liel laivas', 'liellaivā', 'liellaivu', 'lielalivas', 'lielļaivas', 'liellaivās']",64,27
+ormans,"['ormans', 'ormanis', 'ormani', 'ormanī', 'oras', 'ormanim']",65,26
+ratus,"['ratus', 'rats', 'ratu', 'ratošus', 'ratoņus', 'rateļus', 'ratiņus', 'ratos', 'rat']",154,25
+plostiņš,"['plostiņš', 'plostiņi', 'plostiņu', 'plosti', 'plostiem']",90,24
+vāģis,"['vāģis', 'vāģi', 'vāģišos', 'vāģos', 'vāģus']",92,23
+lāviņa,"['lāviņa', 'laiviņa']",54,22
+velkonis,"['velkonis', 'velkoni', 'velkonītis', 'velkonīši', 'velkonī', 'velkoņi', 'velkonīšos']",47,21
+barka,"['barka', 'barkas', 'barkass', 'barkasi', 'barkasā', 'barkase', 'barkāša', 'barkasa', 'barkā', 'barža', 'barku']",47,18
+mašīna,"['mašīna', 'mašīnas', 'mašina', 'mašīnu']",172,18
+barkase,"['barkase', 'barkas', 'barkass', 'barkasi', 'barkasā', 'barkasa', 'barka', 'baržas']",43,16
+mašina,"['mašina', 'mašinu', 'mašīna', 'mašīnas']",155,16
+kariete,"['kariete', 'karietes', 'karite', 'karietē']",130,16
+karite,"['karite', 'kariete', 'karietes', 'karietē']",130,16
+oris,"['oris', 'ori', 'oras', 'ores', 'oros']",208,16
+barkass,"['barkass', 'barkas', 'barkasi', 'barkasā', 'barkase', 'barkasa', 'barka', 'baržas']",43,16
+vēzums,"['vēzums', 'vēzumus', 'vezums', 'vezumos']",39,15
+autobuss,"['autobuss', 'autobusos', 'autobusā', 'autobusi', 'autobusa', 'autobusu']",26,15
+fregāte,"['fregāte', 'fregātei', 'fregātes', 'fregāti', 'fregātu', 'fregate', 'fregates', 'fregatei']",144,14
+lokomobile,"['lokomobile', 'lokomobiles', 'lokomobīle', 'lokomobili', 'lokombīle', 'lokomotive', 'lokomotives']",38,14
+fregate,"['fregate', 'fregates', 'fregatei', 'frēgate', 'fregāte', 'fregātei', 'fregatēm', 'fregātes']",143,14
+velkonītis,"['velkonītis', 'velkonis', 'velkonīši', 'velkonīšos']",39,14
+kuģinieks,"['kuģinieks', 'kuģinieki', 'kuģinieku', 'kuģniek', 'kuģiniekiem', 'kuģitis']",40,14
+aizjūgs,"['aizjūgs', 'aizjūgos', 'aizjūgus', 'aizjūgi', 'aizjūgā', 'aizjūga', 'aizjūgam']",21,14
+gondola,"['gondola', 'gondolu', 'gondolā', 'gondolās']",23,14
+aeroplāns,"['aeroplāns', 'aeroplans', 'aeroplanis', 'aeroplanu', 'aeroplani', 'aeroplana', 'aeroplanā']",25,14
+aeroplans,"['aeroplans', 'aeroplanis', 'aeroplanu', 'aeroplani', 'aeroplāns', 'aeroplana', 'aeroplanā']",25,14
+aeroplana,"['aeroplana', 'aeroplanu', 'aeroplani', 'aeroplanā', 'aeroplans', 'aeroplanis', 'aeroplāns']",25,14
+burenieks,"['burenieks', 'burinieks', 'burenieku', 'bureniekā', 'burenieki', 'burinieki']",38,13
+burinieks,"['burinieks', 'burinieki', 'burenieks', 'burenieku', 'bureniekā', 'burenieki']",38,13
+velosipēds,"['velosipēds', 'velosipēdas', 'velosipēdi', 'velosipēdu', 'velosipeds', 'velosipēda', 'velosipēdam', 'velosipedu']",15,13
+droška,"['droška', 'droškam', 'droškā']",16,13
+motociklets,"['motociklets', 'motocikleti', 'motocikletā', 'motocikls', 'motociklists', 'motociklu', 'motociklā']",24,13
+velosipeds,"['velosipeds', 'velosipedu', 'velosipēds', 'velosipēdas', 'velosipēdi', 'velosipēdu', 'velosipēda', 'velosipēdam']",15,13
+zirgs,"['zirgs', 'zirgi', 'zirgu']",331,12
+laivinieks,"['laivinieks', 'laiviniekus', 'laivinieka', 'laivinieki', 'laivinis', 'laiviniekam', 'laiviniekiem', 'laivenieku']",26,12
+motocikls,"['motocikls', 'motociklets', 'motociklu', 'motociklā', 'motocikleti', 'motocikletā']",23,12
+limuzīns,"['limuzīns', 'limuzīna', 'limuzīni', 'limuzīnā', 'limuzins']",19,11
+limuzins,"['limuzins', 'limuzīns', 'limuzīna', 'limuzīni', 'limuzīnā']",19,11
+kupeja,"['kupeja', 'kupejas', 'kupejā']",24,10
+transportkuģis,"['transportkuģis', 'transportskuģis', 'transportkuģi', 'transporta kuģis', 'transportkuģiem', 'transportkuģa', 'transportori', 'transportlaivas']",5,10
+ekipaža,"['ekipaža', 'ekipažas', 'ekipāža', 'ekipažā', 'eķipaža', 'ekipāžas', 'ekipažās']",37,10
+ore,"['ore', 'ores']",147,10
+zemūdene,"['zemūdene', 'zemūdenes', 'zemūdenē', 'zemūdeņu']",159,9
+kuteris,"['kuteris', 'kučieris', 'kurmis', 'kateri']",138,9
+kučieris,"['kučieris', 'kučiers', 'kučieri', 'kučieriem', 'kuteris']",143,9
+kreiseris,"['kreiseris', 'kreiseri', 'kreiseriem', 'kreiserī', 'kraiseros']",68,9
+barža,"['barža', 'baržas', 'barka', 'baržu']",23,9
+bēris,"['bēris', 'bērais', 'bēri', 'bērītis']",30,8
+kumeļš,"['kumeļš', 'komeļš', 'kumeļu', 'kumeļi', 'kumeļā']",55,8
+kuļmašīna,"['kuļmašīna', 'kuļmašīnas', 'kuļmašīnu']",14,7
+ešalons,"['ešalons', 'ešalonu', 'ešelons', 'ešaloni']",8,7
+ātrvilciens,"['ātrvilciens', 'ātrvilcienu', 'ātrvilcienā']",10,7
+taksis,"['taksis', 'taksi', 'taksim']",3,7
+zemūdenslaiva,"['zemūdenslaiva', 'zemūdenslaivas', 'zemūdens laivas', 'zemūdenslaivu', 'zemūdens laivu']",105,7
+fūrmanis,"['fūrmanis', 'fūrmani', 'fūrmanim', 'fūrmanī']",21,7
+galera,"['galera', 'galeras', 'galeru', 'galēras']",39,7
+lielgabals,"['lielgabals', 'lielgabalus', 'lielgabala', 'lielgabali']",88,7
+motociklists,"['motociklists', 'motociklets', 'motocikleti', 'motocikletā']",10,7
+divjūgs,"['divjūgs', 'divjūga', 'divjūgā', 'divjūgu']",15,7
+bērītis,"['bērītis', 'bēris', 'bērais']",21,7
+prāmis,"['prāmis', 'prāmi', 'prāms', 'prāmji']",10,6
+prāms,"['prāms', 'prāmis', 'proms', 'prāmi']",10,6
+līnijdroška,"['līnijdroška', 'linijdroška']",9,6
+linijdroška,"['linijdroška', 'līnijdroška']",9,6
+šoneris,"['šoneris', 'šoneri', 'šonerus', 'šoneriem']",22,6
+ešelons,"['ešelons', 'ešeloni', 'ešelonu', 'ešalons']",15,6
+jūrmala,"['jūrmala', 'jūrmalas', 'jūrmalā', 'jūrmalu']",11,6
+eķipaža,"['eķipaža', 'eķipažā', 'ekipaža', 'ekipažas']",12,6
+vienkocis,"['vienkocis', 'vienkoči', 'vienkocī', 'vienkočos']",13,6
+hidroplans,"['hidroplans', 'hidroplani', 'hidroplāns', 'hidroplānu', 'hidroplāni']",7,6
+ekipāža,"['ekipāža', 'ekipāžas', 'ekipaža', 'ekipāžā', 'ekipažas']",27,6
+briga,"['briga', 'brig', 'brigā', 'būria']",24,6
+arkls,['arkls'],6,6
+kučiers,"['kučiers', 'kučieris', 'kučieri', 'kučieriem']",129,5
+gondoljers,"['gondoljers', 'gondoljēru', 'gondolās']",5,5
+galeons,"['galeons', 'galeonu', 'galeoni', 'galeoniem']",7,5
+taksometrs,"['taksometrs', 'taksometris', 'takisometrs', 'taksomotori', 'taksomotora']",3,5
+traktors,"['traktors', 'traktori', 'trāktora']",7,5
+stīmeris,"['stīmeris', 'stīmeri', 'stīmerītis', 'stīmeru']",7,5
+zirģelis,"['zirģelis', 'zirgelis']",8,5
+zirdziņš,"['zirdziņš', 'zirdziņi']",13,4
+līķrati,"['līķrati', 'līķa rati', 'līnijrati']",7,4
+zēģele,"['zēģele', 'zēģeles']",4,4
+drednauts,"['drednauts', 'drednauta', 'drednauti', 'dreidnautam']",3,4
+līnijrati,"['līnijrati', 'līnijratos', 'līķrati']",12,4
+ekspresis,"['ekspresis', 'ekspresi', 'ekspresī']",13,4
+nedēļnieks,"['nedēļnieks', 'nedēļnieki', 'nedēļnieku', 'nedēļniekiem']",8,4
+automašīna,"['automašīna', 'automašīnas', 'automašīnu']",14,4
+trijjūgs,"['trijjūgs', 'trijjūgā', 'trijjūgiem']",6,4
+kaleša,"['kaleša', 'kaleše', 'kalošas']",2,4
+diližanss,"['diližanss', 'diližans', 'diližansu', 'dirižansā']",2,4
+autotaksis,"['autotaksis', 'autotakši']",4,3
+čoliņa,"['čoliņa', 'čoliņu', 'čoliņā']",6,3
+ķēve,"['ķēve', 'ķēvi']",16,3
+puskariete,"['puskariete', 'puskarieti', 'puskarīte']",4,3
+sirmis,"['sirmis', 'sirms']",6,3
+sirms,"['sirms', 'sirmis']",6,3
+divriči,"['divriči', 'divričus', 'divriteņi']",2,3
+džunka,"['džunka', 'džonka', 'džonkas']",19,3
+korvete,"['korvete', 'korvetes']",5,3
+sanitārvilciens,"['sanitārvilciens', 'sanitārvilcienam']",6,2
+vērsis,['vērsis'],8,2
+vienjūgs,"['vienjūgs', 'vienjūgi']",2,2
+velce,"['velce', 'velci']",5,2
+četrjūgs,"['četrjūgs', 'četrjūgā']",6,2
+tamborrati,['tamborrati'],2,2
+ragutiņas,"['ragutiņas', 'ratiņus']",19,2
+torpeda,"['torpeda', 'torpedu']",87,2
+trams,"['trams', 'trami']",2,2
+ledlauzis,"['ledlauzis', 'ledlauži']",4,2
+galiote,"['galiote', 'galiotes']",6,2
+bruņuvilciens,"['bruņuvilciens', 'bruņu vilciens']",3,2
+elektrokars,"['elektrokars', 'elektrokaru']",9,2
+govis,['govis'],94,2
+divritenis,"['divritenis', 'divriteņi']",2,2
+dampis,['dampis'],2,2
+lielgaballaiva,"['lielgaballaiva', 'lielgabalu laivu']",2,2
+cepelīns,['cepelīns'],1,2
+flote,['flote'],5,2
+artilerija,"['artilerija', 'artilērija']",79,2
+artilērija,"['artilērija', 'artilerija']",79,2
+vāgūzis,['vāgūzis'],0,1
+federrati,['federrati'],1,1
+dumo,['dumo'],4,1
+ērzelis,['ērzelis'],6,1
+drigalka,['drigalka'],1,1
+divmastnieks,['divmastnieks'],3,1
+dirižablis,['dirižablis'],1,1
+zārks,['zārks'],0,1
+berbep,['berbep'],52,1
+bajars,['bajars'],5,1
+vēl,['vēl'],68,1
+cisas,['cisas'],6,1
+galateja,['galateja'],7,1
+brēmene,['brēmene'],2,1
+baltiņš,['baltiņš'],3,1
+brauceji,['brauceji'],2,1
+bobs,['bobs'],4,1
+autokārs,['autokārs'],3,1
+pontontilts,['pontontilts'],0,1
+pils,['pils'],118,1
+gangvejs,['gangvejs'],1,1
+pacere,['pacere'],0,1
+omnibuss,['omnibuss'],2,1
+rikša,['rikša'],0,1
+rībeja,['rībeja'],3,1
+salnis,['salnis'],7,1
+salonvagons,['salonvagons'],0,1
+mūlis,['mūlis'],9,1
+mākoņkuģis,['mākoņkuģis'],6,1
+ms,['ms'],2,1
+melnis,['melnis'],15,1
+sējmašīna,['sējmašīna'],1,1
+līnijkuģis,['līnijkuģis'],5,1
+lāde,['lāde'],2,1
+lodziņš,['lodziņš'],1,1
+tačka,['tačka'],1,1
+lidonis,['lidonis'],1,1
+kuņem,['kuņem'],8,1
+kuģotājs,['kuģotājs'],6,1
+ilkse,['ilkse'],3,1
+guļamvagons,['guļamvagons'],0,1
+groža,['groža'],1,1
+gliemezis,['gliemezis'],0,1
+tējmašīna,['tējmašīna'],0,1
+aero,['aero'],5,1
