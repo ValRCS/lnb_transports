@@ -4,7 +4,7 @@ Transport in Latvian Literature
 
 ## Reproducibility
 
-Following notebooks in **notebooks** folder should be runnable without any extra data needed
+Following notebooks in **notebooks** folder should be runnable without needing any data outside of repository
 
 * visualize_taksis_ormanis.ipynb
 * visualize_terms_df_tf_relative_over_time.ipynb
